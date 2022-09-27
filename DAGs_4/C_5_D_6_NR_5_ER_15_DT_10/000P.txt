@@ -1,8 +1,0 @@
-a : d 
-b : a c 
-c : a g 
-d : 
-e : d b 
-f : e b g 
-g : h 
-h : 
