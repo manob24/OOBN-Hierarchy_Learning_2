@@ -1,0 +1,28 @@
+digraph {
+	a [label=a]
+	b [label=b]
+	c [label=c]
+	d [label=d]
+	e [label=e]
+	f [label=f]
+	g [label=g]
+	h [label=h]
+	a -> b
+	a -> c
+	b -> a
+	b -> d
+	c -> d
+	c -> e
+	d -> b
+	d -> f
+	d -> h
+	d -> e
+	e -> d
+	e -> g
+	e -> h
+	e -> f
+	f -> g
+	g -> f
+	h -> f
+	h -> g
+}

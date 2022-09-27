@@ -1,0 +1,226 @@
+Command line format to run the program:
+This program will run with default (current directory) or the given directory (as provided by the user in the command line) and look for DAG files (with .txt extensions).  and then contructs hierarchy by the learning algorithm and by reading the random hierarchy generated and stored in the folder. Then show the compared result.
+type -Dir Directory Name for providing the location of the DAG files
+Other wise type -h for help
+
+ python3 LearnHierarchy.py -Dir DirName
+None
+['LearnHierarchy.py', '-Dir', 'DAGs_4/C_6_D_3_NR_10_ER_20_DT_15']
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CD.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BF.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00T.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CC.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CL.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00F.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BZ.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BM.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00X.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BE.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CI.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BP.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00V.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BD.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00D.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CN.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00I.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00Z.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BW.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CE.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BB.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00Y.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BL.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BC.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00P.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00O.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CM.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BT.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00W.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BV.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BA.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00B.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00E.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BJ.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00C.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BU.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BX.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BK.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BR.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BQ.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CB.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BN.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CJ.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00N.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CF.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CA.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00G.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00J.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00R.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BO.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CG.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BH.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CK.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00K.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BI.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00H.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00M.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BS.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BY.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00S.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00U.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BG.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CH.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  65
+
+The hierarchy 
+ ['0BK'] ==> ['0BK', '0BL']
+['0BM'] ==> ['0BF', '0BL', '0BM', '0BQ', '0BV', '0BX', '0BY', '0CE']
+['00W'] ==> ['00V', '00W']
+['00Y'] ==> ['00Y', '0BA']
+['00V'] ==> ['00V', '00W']
+['00G'] ==> ['00G', '00T', '00U', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00X'] ==> ['00X', '0BL']
+['00O'] ==> ['00O', '00Q', '0CB', '0CC', '0CD']
+['0BB'] ==> ['00H', '0BA', '0BB', '0BC', '0BD', '0BE']
+['00X', '0BL'] ==> ['00X', '0BH', '0BL', '0BN', '0BW', '0BY', '0BZ', '0CA', '0CB', '0CF', '0CG', '0CH', '0CK', '0CL']
+['00Y', '0BA'] ==> ['00Y', '00Z', '0BA']
+['0BK', '0BL'] ==> ['00J', '00L', '00S', '0BH', '0BI', '0BK', '0BL', '0BM', '0BN', '0CF', '0CG', '0CH', '0CI']
+['00V', '00W'] ==> ['00V', '00W', '00X']
+['00V', '0BK'] ==> ['00B', '00C', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR']
+['00Y', '00Z', '0BA'] ==> ['00B', '00F', '00G', '00H', '00I', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG']
+['00V', '00W', '00X'] ==> ['00F', '00V', '00W', '00X', '00Y', '00Z']
+['00O', '00Q', '0CB', '0CC', '0CD'] ==> ['00J', '00L', '00O', '00Q', '00S', '0BH', '0BI', '0BL', '0BM', '0BN', '0CB', '0CC', '0CD', '0CF', '0CG', '0CH', '0CI']
+['00H', '0BA', '0BB', '0BC', '0BD', '0BE'] ==> ['00B', '00F', '00G', '00H', '00I', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG']
+['00R', '00T', '0BJ', '0BK', '0CE', '0CJ'] ==> ['00F', '00I', '00K', '00M', '00N', '00Q', '00R', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BF', '0BG', '0BJ', '0BK', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0CB', '0CC', '0CD', '0CE', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00U', '0BJ', '0CK', '0CL', '0CM', '0CN'] ==> ['00C', '00E', '00J', '00K', '00L', '00M', '00S', '00T', '00U', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00F', '00V', '00W', '00X', '00Y', '00Z'] ==> ['00F', '00J', '00P', '00R', '00V', '00W', '00X', '00Y', '00Z', '0BH', '0BI', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CE']
+['00G', '00T', '00U', '0CJ', '0CK', '0CL', '0CM', '0CN'] ==> ['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['0BF', '0BL', '0BM', '0BQ', '0BV', '0BX', '0BY', '0CE'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['0BA', '0BH', '0BI', '0BN', '0BO', '0BS', '0BU', '0CE', '0CM'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00X', '0BB', '0BE', '0BF', '0BR', '0BU', '0CC', '0CE', '0CM'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00V', '00W', '0BG', '0BH', '0BM', '0CC', '0CD', '0CL', '0CM'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00X', '00Y', '0BC', '0BD', '0BI', '0BP', '0BS', '0BT', '0CA', '0CK'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00W', '0BB', '0BE', '0BG', '0BI', '0BS', '0BU', '0BX', '0CC', '0CI'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['0BE', '0BF', '0BM', '0BP', '0CA', '0CC', '0CG', '0CK', '0CL', '0CN'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00N', '00O', '00U', '0BS', '0BT', '0BU', '0BV', '0CK', '0CL', '0CM', '0CN'] ==> ['00D', '00E', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['0BB', '0BG', '0BI', '0BM', '0BR', '0BS', '0BY', '0CA', '0CF', '0CH', '0CK'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00Y', '00Z', '0BE', '0BM', '0BR', '0BT', '0BV', '0BZ', '0CG', '0CI', '0CJ', '0CM'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00V', '00X', '0BA', '0BG', '0BO', '0BQ', '0BT', '0BU', '0CA', '0CD', '0CE', '0CN'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00G', '00M', '00Q', '00T', '0BO', '0BP', '0BQ', '0BR', '0CB', '0CC', '0CD', '0CJ'] ==> ['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00E', '00S', '00T', '00U', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN'] ==> ['00C', '00E', '00J', '00K', '00L', '00M', '00S', '00T', '00U', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00W', '0BE', '0BL', '0BQ', '0BT', '0BW', '0BX', '0BZ', '0CB', '0CD', '0CI', '0CJ', '0CL'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00Z', '0BF', '0BG', '0BU', '0BY', '0BZ', '0CB', '0CE', '0CF', '0CG', '0CI', '0CJ', '0CL'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00J', '00L', '00S', '0BH', '0BI', '0BK', '0BL', '0BM', '0BN', '0CF', '0CG', '0CH', '0CI'] ==> ['00C', '00E', '00J', '00K', '00L', '00M', '00S', '00T', '00U', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['0BB', '0BI', '0BN', '0BP', '0BS', '0BT', '0BW', '0BZ', '0CA', '0CB', '0CG', '0CH', '0CK', '0CN'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['0BC', '0BD', '0BH', '0BO', '0BR', '0BT', '0BW', '0CB', '0CD', '0CF', '0CI', '0CJ', '0CL', '0CN'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00Z', '0BC', '0BD', '0BI', '0BL', '0BM', '0BN', '0BS', '0BV', '0BX', '0CB', '0CI', '0CJ', '0CM'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00X', '0BH', '0BL', '0BN', '0BW', '0BY', '0BZ', '0CA', '0CB', '0CF', '0CG', '0CH', '0CK', '0CL'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['0BB', '0BC', '0BF', '0BL', '0BM', '0BP', '0BQ', '0BT', '0BV', '0CA', '0CC', '0CD', '0CI', '0CJ', '0CN'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00C', '00J', '00K', '00L', '00M', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR'] ==> ['00C', '00E', '00J', '00K', '00L', '00M', '00S', '00T', '00U', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00F', '00J', '00P', '00R', '00V', '00W', '00X', '00Y', '00Z', '0BH', '0BI', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CE'] ==> ['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00J', '00L', '00O', '00Q', '00S', '0BH', '0BI', '0BL', '0BM', '0BN', '0CB', '0CC', '0CD', '0CF', '0CG', '0CH', '0CI'] ==> ['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00I', '00J', '00Q', '00R', '00U', '0BF', '0BG', '0BH', '0BI', '0CB', '0CC', '0CD', '0CE', '0CK', '0CL', '0CM', '0CN'] ==> ['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00B', '00F', '00G', '00H', '00I', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG'] ==> ['00B', '00C', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR']
+['00V', '00X', '00Y', '00Z', '0BA', '0BH', '0BN', '0BO', '0BQ', '0BR', '0BT', '0BV', '0BW', '0BY', '0CB', '0CH', '0CI'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00V', '00W', '0BA', '0BB', '0BD', '0BF', '0BG', '0BN', '0BO', '0BQ', '0BX', '0CA', '0CB', '0CD', '0CE', '0CH', '0CL'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00D', '00N', '00O', '00P', '00Q', '00R', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE'] ==> ['00D', '00E', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00G', '00H', '00J', '00L', '00P', '0BA', '0BB', '0BC', '0BD', '0BE', '0BH', '0BI', '0BL', '0BM', '0BN', '0BW', '0BX', '0BY', '0BZ', '0CA'] ==> ['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00G', '00L', '00M', '00N', '00O', '00S', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0CF', '0CG', '0CH', '0CI'] ==> ['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00Y', '0BA', '0BC', '0BG', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BT', '0BW', '0BY', '0CB', '0CD', '0CF', '0CG', '0CJ', '0CK', '0CN'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00F', '00G', '00H', '00L', '00N', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BL', '0BM', '0BN', '0BS', '0BT', '0BU', '0BV'] ==> ['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00F', '00I', '00L', '00P', '00R', '00T', '00V', '00W', '00X', '00Y', '00Z', '0BF', '0BG', '0BL', '0BM', '0BN', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CE', '0CJ'] ==> ['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00I', '00N', '00O', '00P', '00Q', '00R', '00T', '0BF', '0BG', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CJ'] ==> ['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00C', '00E', '00J', '00K', '00L', '00M', '00S', '00T', '00U', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN'] ==> ['00B', '00C', '00D', '00E', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00D', '00E', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN'] ==> ['00B', '00C', '00D', '00E', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00B', '00C', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR'] ==> ['00B', '00C', '00D', '00E', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00F', '00I', '00M', '00P', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BF', '0BG', '0BO', '0BP', '0BQ', '0BR', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN'] ==> ['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00C', '00D', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE'] ==> ['00B', '00C', '00D', '00E', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00H', '00I', '00J', '00M', '00N', '00R', '00S', '00U', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0CE', '0CF', '0CG', '0CH', '0CI', '0CK', '0CL', '0CM', '0CN'] ==> ['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00F', '00I', '00K', '00M', '00N', '00Q', '00R', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BF', '0BG', '0BJ', '0BK', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0CB', '0CC', '0CD', '0CE', '0CJ', '0CK', '0CL', '0CM', '0CN'] ==> ['00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN'] ==> ['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN'] ==> ['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN'] ==> ['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00F', '00G', '00H', '00I', '00J', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN'] ==> ['00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN'] ==> ['00B', '00C', '00D', '00E', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN']
+['00B', '00C', '00D', '00E', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN'] ==> []
+
+Exact count =  113
+Size of the supergraph  (15, 98)
+The (derivation cost+ HT construction cost) of the hierarchy =  905
+The (derivation cost + HT construction cost) of no hierarchy =  1883
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CD.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BF.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00T.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CC.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CL.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00F.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BZ.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BM.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00X.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BE.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CI.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BP.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00V.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BD.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00D.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CN.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00I.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00Z.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BW.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CE.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BB.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00Y.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BL.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BC.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00P.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00O.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CM.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BT.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00W.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BV.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BA.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00B.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00E.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BJ.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00C.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BU.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BX.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BK.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BR.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BQ.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CB.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BN.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CJ.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00N.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CF.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CA.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00G.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00J.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00R.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BO.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CG.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BH.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CK.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00K.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BI.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00H.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00M.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BS.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BY.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00S.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00U.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BG.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CH.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  65
+Exact count =  29
+
+Size of the supergraph  (15, 98)
+
+ The derivation + HT construction cost of the hierarchy Learned = 905
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  743
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1883 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 65, 70 )

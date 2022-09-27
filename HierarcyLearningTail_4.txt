@@ -1,0 +1,324 @@
+['HierarchyLearning.py', '-Dir', 'DAGs_4/C_3_D_3_NR_5_ER_15_DT_10']
+././DAGs_4/C_3_D_3_NR_5_ER_15_DT_10/0D.txt
+././DAGs_4/C_3_D_3_NR_5_ER_15_DT_10/0E.txt
+././DAGs_4/C_3_D_3_NR_5_ER_15_DT_10/0C.txt
+././DAGs_4/C_3_D_3_NR_5_ER_15_DT_10/0B.txt
+Num of DAG created =  4
+4
+all labels size  4
+dag key size  4
+Hierarchy Learning cost:  20
+Hierarchy size:  7
+No hierarchy cost:  43
+././DAGs_4/C_3_D_3_NR_10_ER_20_DT_15/0D.txt
+././DAGs_4/C_3_D_3_NR_10_ER_20_DT_15/0E.txt
+././DAGs_4/C_3_D_3_NR_10_ER_20_DT_15/0F.txt
+././DAGs_4/C_3_D_3_NR_10_ER_20_DT_15/0C.txt
+././DAGs_4/C_3_D_3_NR_10_ER_20_DT_15/0B.txt
+Num of DAG created =  5
+7
+all labels size  7
+dag key size  5
+Hierarchy Learning cost:  66
+Hierarchy size:  9
+No hierarchy cost:  155
+['HierarchyLearning.py', '-Dir', 'DAGs_4/C_3_D_4_NR_5_ER_15_DT_10']
+././DAGs_4/C_3_D_4_NR_5_ER_15_DT_10/0D.txt
+././DAGs_4/C_3_D_4_NR_5_ER_15_DT_10/0E.txt
+././DAGs_4/C_3_D_4_NR_5_ER_15_DT_10/0C.txt
+././DAGs_4/C_3_D_4_NR_5_ER_15_DT_10/0B.txt
+Num of DAG created =  4
+4
+all labels size  4
+dag key size  4
+Hierarchy Learning cost:  21
+Hierarchy size:  7
+No hierarchy cost:  46
+././DAGs_4/C_3_D_4_NR_10_ER_20_DT_15/0F.txt
+././DAGs_4/C_3_D_4_NR_10_ER_20_DT_15/0J.txt
+././DAGs_4/C_3_D_4_NR_10_ER_20_DT_15/0K.txt
+././DAGs_4/C_3_D_4_NR_10_ER_20_DT_15/0C.txt
+././DAGs_4/C_3_D_4_NR_10_ER_20_DT_15/0B.txt
+Num of DAG created =  10
+17
+all labels size  19
+dag key size  15
+Hierarchy Learning cost:  144
+Hierarchy size:  18
+No hierarchy cost:  319
+././DAGs_4/C_3_D_5_NR_5_ER_15_DT_10/00J.txt
+././DAGs_4/C_3_D_5_NR_5_ER_15_DT_10/00K.txt
+././DAGs_4/C_3_D_5_NR_5_ER_15_DT_10/00H.txt
+././DAGs_4/C_3_D_5_NR_5_ER_15_DT_10/00M.txt
+././DAGs_4/C_3_D_5_NR_5_ER_15_DT_10/00L.txt
+Num of DAG created =  13
+19
+all labels size  21
+dag key size  16
+Hierarchy Learning cost:  49
+Hierarchy size:  23
+No hierarchy cost:  185
+././DAGs_4/C_3_D_5_NR_10_ER_20_DT_15/00M.txt
+././DAGs_4/C_3_D_5_NR_10_ER_20_DT_15/00S.txt
+././DAGs_4/C_3_D_5_NR_10_ER_20_DT_15/00U.txt
+././DAGs_4/C_3_D_5_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_4/C_3_D_5_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  21
+84
+all labels size  102
+dag key size  88
+Hierarchy Learning cost:  644
+Hierarchy size:  36
+No hierarchy cost:  1452
+././DAGs_4/C_3_D_6_NR_5_ER_15_DT_10/00M.txt
+././DAGs_4/C_3_D_6_NR_5_ER_15_DT_10/00S.txt
+././DAGs_4/C_3_D_6_NR_5_ER_15_DT_10/00U.txt
+././DAGs_4/C_3_D_6_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_4/C_3_D_6_NR_5_ER_15_DT_10/00L.txt
+Num of DAG created =  23
+29
+all labels size  47
+dag key size  40
+Hierarchy Learning cost:  142
+Hierarchy size:  39
+No hierarchy cost:  396
+././DAGs_4/C_3_D_6_NR_10_ER_20_DT_15/00J.txt
+././DAGs_4/C_3_D_6_NR_10_ER_20_DT_15/00K.txt
+././DAGs_4/C_3_D_6_NR_10_ER_20_DT_15/00H.txt
+././DAGs_4/C_3_D_6_NR_10_ER_20_DT_15/00M.txt
+././DAGs_4/C_3_D_6_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  14
+35
+all labels size  44
+dag key size  34
+Hierarchy Learning cost:  1037
+Hierarchy size:  26
+No hierarchy cost:  1955
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0N.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0K.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0C.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0P.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0B.txt
+Num of DAG created =  17
+19
+all labels size  31
+dag key size  23
+Hierarchy Learning cost:  60
+Hierarchy size:  28
+No hierarchy cost:  172
+././DAGs_4/C_4_D_3_NR_10_ER_20_DT_15/0N.txt
+././DAGs_4/C_4_D_3_NR_10_ER_20_DT_15/0K.txt
+././DAGs_4/C_4_D_3_NR_10_ER_20_DT_15/0C.txt
+././DAGs_4/C_4_D_3_NR_10_ER_20_DT_15/0P.txt
+././DAGs_4/C_4_D_3_NR_10_ER_20_DT_15/0B.txt
+Num of DAG created =  15
+36
+all labels size  67
+dag key size  47
+Hierarchy Learning cost:  171
+Hierarchy size:  26
+No hierarchy cost:  450
+././DAGs_4/C_4_D_4_NR_5_ER_15_DT_10/00S.txt
+././DAGs_4/C_4_D_4_NR_5_ER_15_DT_10/00U.txt
+././DAGs_4/C_4_D_4_NR_5_ER_15_DT_10/0BG.txt
+././DAGs_4/C_4_D_4_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_4/C_4_D_4_NR_5_ER_15_DT_10/00L.txt
+Num of DAG created =  33
+37
+all labels size  83
+dag key size  71
+Hierarchy Learning cost:  159
+Hierarchy size:  57
+No hierarchy cost:  627
+././DAGs_4/C_4_D_4_NR_10_ER_20_DT_15/00S.txt
+././DAGs_4/C_4_D_4_NR_10_ER_20_DT_15/00U.txt
+././DAGs_4/C_4_D_4_NR_10_ER_20_DT_15/0BG.txt
+././DAGs_4/C_4_D_4_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_4/C_4_D_4_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  40
+85
+all labels size  615
+dag key size  586
+Hierarchy Learning cost:  554
+Hierarchy size:  72
+No hierarchy cost:  1687
+././DAGs_4/C_4_D_5_NR_5_ER_15_DT_10/0CH.txt
+././DAGs_4/C_4_D_5_NR_5_ER_15_DT_10/0CT.txt
+././DAGs_4/C_4_D_5_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_4/C_4_D_5_NR_5_ER_15_DT_10/00L.txt
+././DAGs_4/C_4_D_5_NR_5_ER_15_DT_10/0CP.txt
+Num of DAG created =  81
+67
+all labels size  226
+dag key size  198
+Hierarchy Learning cost:  464
+Hierarchy size:  137
+No hierarchy cost:  1782
+././DAGs_4/C_4_D_5_NR_10_ER_20_DT_15/00U.txt
+././DAGs_4/C_4_D_5_NR_10_ER_20_DT_15/0BG.txt
+././DAGs_4/C_4_D_5_NR_10_ER_20_DT_15/0CH.txt
+././DAGs_4/C_4_D_5_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_4/C_4_D_5_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  66
+323
+all labels size  2136
+dag key size  2080
+Hierarchy Learning cost:  1885
+Hierarchy size:  119
+No hierarchy cost:  5105
+././DAGs_4/C_4_D_6_NR_5_ER_15_DT_10/0CH.txt
+././DAGs_4/C_4_D_6_NR_5_ER_15_DT_10/0CT.txt
+././DAGs_4/C_4_D_6_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_4/C_4_D_6_NR_5_ER_15_DT_10/00L.txt
+././DAGs_4/C_4_D_6_NR_5_ER_15_DT_10/0CP.txt
+Num of DAG created =  118
+112
+all labels size  470
+dag key size  421
+Hierarchy Learning cost:  705
+Hierarchy size:  182
+No hierarchy cost:  3344
+././DAGs_4/C_4_D_6_NR_10_ER_20_DT_15/0CH.txt
+././DAGs_4/C_4_D_6_NR_10_ER_20_DT_15/0CT.txt
+././DAGs_4/C_4_D_6_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_4/C_4_D_6_NR_10_ER_20_DT_15/00L.txt
+././DAGs_4/C_4_D_6_NR_10_ER_20_DT_15/0CP.txt
+Num of DAG created =  161
+3533
+all labels size  21926
+dag key size  21560
+Hierarchy Learning cost:  17036
+Hierarchy size:  287
+No hierarchy cost:  31735
+././DAGs_4/C_5_D_3_NR_5_ER_15_DT_10/BK.txt
+././DAGs_4/C_5_D_3_NR_5_ER_15_DT_10/BH.txt
+././DAGs_4/C_5_D_3_NR_5_ER_15_DT_10/0P.txt
+././DAGs_4/C_5_D_3_NR_5_ER_15_DT_10/0B.txt
+././DAGs_4/C_5_D_3_NR_5_ER_15_DT_10/0Z.txt
+Num of DAG created =  38
+40
+all labels size  82
+dag key size  69
+Hierarchy Learning cost:  133
+Hierarchy size:  59
+No hierarchy cost:  464
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0C.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/BH.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0P.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0B.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0Z.txt
+Num of DAG created =  35
+67
+all labels size  213
+dag key size  184
+Hierarchy Learning cost:  269
+Hierarchy size:  63
+No hierarchy cost:  1048
+././DAGs_4/C_5_D_4_NR_5_ER_15_DT_10/0CH.txt
+././DAGs_4/C_5_D_4_NR_5_ER_15_DT_10/0CT.txt
+././DAGs_4/C_5_D_4_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_4/C_5_D_4_NR_5_ER_15_DT_10/00L.txt
+././DAGs_4/C_5_D_4_NR_5_ER_15_DT_10/0CP.txt
+Num of DAG created =  81
+68
+all labels size  255
+dag key size  216
+Hierarchy Learning cost:  377
+Hierarchy size:  135
+No hierarchy cost:  1487
+././DAGs_4/C_5_D_4_NR_10_ER_20_DT_15/0CS.txt
+././DAGs_4/C_5_D_4_NR_10_ER_20_DT_15/0CH.txt
+././DAGs_4/C_5_D_4_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_4/C_5_D_4_NR_10_ER_20_DT_15/00L.txt
+././DAGs_4/C_5_D_4_NR_10_ER_20_DT_15/0CP.txt
+Num of DAG created =  70
+103
+all labels size  1860
+dag key size  1811
+Hierarchy Learning cost:  931
+Hierarchy size:  126
+No hierarchy cost:  2975
+././DAGs_4/C_5_D_5_NR_5_ER_15_DT_10/0CH.txt
+././DAGs_4/C_5_D_5_NR_5_ER_15_DT_10/0CT.txt
+././DAGs_4/C_5_D_5_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_4/C_5_D_5_NR_5_ER_15_DT_10/00L.txt
+././DAGs_4/C_5_D_5_NR_5_ER_15_DT_10/0CP.txt
+Num of DAG created =  91
+76
+all labels size  260
+dag key size  225
+Hierarchy Learning cost:  452
+Hierarchy size:  142
+No hierarchy cost:  1936
+././DAGs_4/C_5_D_5_NR_10_ER_20_DT_15/00R.txt
+././DAGs_4/C_5_D_5_NR_10_ER_20_DT_15/0FR.txt
+././DAGs_4/C_5_D_5_NR_10_ER_20_DT_15/0EP.txt
+././DAGs_4/C_5_D_5_NR_10_ER_20_DT_15/0BO.txt
+././DAGs_4/C_5_D_5_NR_10_ER_20_DT_15/0FG.txt
+././DAGs_4/C_5_D_5_NR_10_ER_20_DT_15/0HH.txt
+././DAGs_4/C_5_D_5_NR_10_ER_20_DT_15/0DA.txt
+././DAGs_4/C_5_D_5_NR_10_ER_20_DT_15/0EJ.txt
+././DAGs_4/C_5_D_5_NR_10_ER_20_DT_15/0EY.txt
+././DAGs_4/C_5_D_5_NR_10_ER_20_DT_15/0CG.txt
+././DAGs_4/C_5_D_5_NR_10_ER_20_DT_15/0DM.txt
+././DAGs_4/C_5_D_5_NR_10_ER_20_DT_15/0CX.txt
+././DAGs_4/C_5_D_6_NR_5_ER_15_DT_10/00GK.txt
+././DAGs_4/C_5_D_6_NR_5_ER_15_DT_10/00CK.txt
+././DAGs_4/C_5_D_6_NR_5_ER_15_DT_10/00EI.txt
+././DAGs_4/C_5_D_6_NR_5_ER_15_DT_10/00FK.txt
+././DAGs_4/C_5_D_6_NR_5_ER_15_DT_10/00DP.txt
+Num of DAG created =  201
+116
+all labels size  1240
+dag key size  1144
+Hierarchy Learning cost:  1810
+Hierarchy size:  248
+No hierarchy cost:  5103
+././DAGs_4/C_6_D_3_NR_5_ER_15_DT_10/00S.txt
+././DAGs_4/C_6_D_3_NR_5_ER_15_DT_10/00U.txt
+././DAGs_4/C_6_D_3_NR_5_ER_15_DT_10/0BG.txt
+././DAGs_4/C_6_D_3_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_4/C_6_D_3_NR_5_ER_15_DT_10/00L.txt
+Num of DAG created =  55
+55
+all labels size  125
+dag key size  103
+Hierarchy Learning cost:  196
+Hierarchy size:  88
+No hierarchy cost:  761
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00U.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0BG.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/0CH.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_4/C_6_D_3_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  65
+70
+all labels size  1808
+dag key size  1752
+Hierarchy Learning cost:  494
+Hierarchy size:  116
+No hierarchy cost:  1883
+././DAGs_4/C_6_D_4_NR_5_ER_15_DT_10/0CH.txt
+././DAGs_4/C_6_D_4_NR_5_ER_15_DT_10/0CT.txt
+././DAGs_4/C_6_D_4_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_4/C_6_D_4_NR_5_ER_15_DT_10/00L.txt
+././DAGs_4/C_6_D_4_NR_5_ER_15_DT_10/0CP.txt
+Num of DAG created =  147
+84
+all labels size  712
+dag key size  666
+Hierarchy Learning cost:  596
+Hierarchy size:  240
+No hierarchy cost:  2504
+././DAGs_4/C_6_D_5_NR_5_ER_15_DT_10/00RE.txt
+././DAGs_4/C_6_D_5_NR_5_ER_15_DT_10/00PO.txt
+././DAGs_4/C_6_D_5_NR_5_ER_15_DT_10/00IG.txt
+././DAGs_4/C_6_D_5_NR_5_ER_15_DT_10/00DP.txt
+././DAGs_4/C_6_D_5_NR_5_ER_15_DT_10/00MZ.txt
+Num of DAG created =  499
+146
+all labels size  5689
+dag key size  5444
+Hierarchy Learning cost:  2157
+Hierarchy size:  841
+No hierarchy cost:  12470

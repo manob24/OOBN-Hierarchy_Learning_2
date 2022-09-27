@@ -1,0 +1,38 @@
+a : b 
+b : c i j 
+c : e 
+d : c a 
+e : 
+f : c 
+g : h 
+h : 
+i : 
+j : i f 
+k : n 
+l : n k 
+m : k n o 
+n : 
+o : k n l 
+p : 
+q : r s t v 
+r : u 
+s : p r 
+t : r s 
+u : p 
+v : s t 
+w : bc bk 
+x : bg w bk bj 
+y : bb x bj 
+z : bl bj y be 
+ba : bg bc be z 
+bb : bg 
+bc : 
+bd : bh ba z 
+be : y 
+bf : bi 
+bg : bl bk bh 
+bh : w bl 
+bi : bd z 
+bj : w bk bh bb 
+bk : bc 
+bl : bc w bk 

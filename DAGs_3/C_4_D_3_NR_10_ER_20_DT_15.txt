@@ -1,0 +1,92 @@
+Command line format to run the program:
+This program will run with default (current directory) or the given directory (as provided by the user in the command line) and look for DAG files (with .txt extensions).  and then contructs hierarchy by the learning algorithm and by reading the random hierarchy generated and stored in the folder. Then show the compared result.
+type -Dir Directory Name for providing the location of the DAG files
+Other wise type -h for help
+
+ python3 LearnHierarchy.py -Dir DirName
+None
+['LearnHierarchy.py', '-Dir', 'DAGs_3/C_4_D_3_NR_10_ER_20_DT_15']
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0D.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0H.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0Q.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0G.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0O.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0L.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0I.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0M.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0E.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0F.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0J.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0N.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0K.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0C.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0P.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0B.txt
+Num of DAG created =  16
+
+The hierarchy 
+ ['0J'] ==> ['0I', '0J', '0K']
+['0I'] ==> ['0D', '0I']
+['0L'] ==> ['0L', '0P']
+['0K'] ==> ['0K', '0O']
+['0L', '0P'] ==> ['0I', '0L', '0P', '0Q']
+['0D', '0I'] ==> ['0B', '0D', '0E', '0I', '0J', '0K', '0L']
+['0K', '0O'] ==> ['0K', '0N', '0O']
+['0L', '0M'] ==> ['0L', '0M', '0O', '0P']
+['0M', '0P', '0Q'] ==> ['0G', '0H', '0M', '0N', '0O', '0P', '0Q']
+['0M', '0O', '0Q'] ==> ['0G', '0H', '0M', '0N', '0O', '0P', '0Q']
+['0H', '0P', '0Q'] ==> ['0G', '0H', '0M', '0N', '0O', '0P', '0Q']
+['0I', '0J', '0K'] ==> ['0B', '0D', '0E', '0I', '0J', '0K', '0L']
+['0I', '0J', '0N'] ==> ['0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q']
+['0N', '0P', '0Q'] ==> ['0G', '0H', '0M', '0N', '0O', '0P', '0Q']
+['0K', '0N', '0O'] ==> ['0E', '0G', '0J', '0K', '0L', '0M', '0N', '0O']
+['0J', '0K', '0L', '0N'] ==> ['0J', '0K', '0L', '0M', '0N', '0P']
+['0J', '0K', '0L', '0Q'] ==> ['0E', '0F', '0H', '0J', '0K', '0L', '0P', '0Q']
+['0G', '0M', '0N', '0O'] ==> ['0G', '0H', '0M', '0N', '0O', '0P', '0Q']
+['0I', '0L', '0P', '0Q'] ==> ['0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q']
+['0L', '0M', '0O', '0P'] ==> ['0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q']
+['0E', '0J', '0K', '0L'] ==> ['0B', '0D', '0E', '0I', '0J', '0K', '0L']
+['0J', '0K', '0M', '0O', '0P'] ==> ['0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q']
+['0J', '0K', '0L', '0M', '0N', '0P'] ==> ['0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q']
+['0B', '0D', '0E', '0I', '0J', '0K', '0L'] ==> ['0B', '0D', '0E', '0I', '0I', '0J', '0K', '0L']
+['0D', '0E', '0F', '0I', '0J', '0K', '0L'] ==> ['0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q']
+['0G', '0H', '0M', '0N', '0O', '0P', '0Q'] ==> ['0F', '0G', '0H', '0M', '0N', '0O', '0P', '0Q']
+['0B', '0D', '0E', '0I', '0I', '0J', '0K', '0L'] ==> ['0B', '0C', '0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q']
+['0E', '0F', '0H', '0J', '0K', '0L', '0P', '0Q'] ==> ['0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q']
+['0F', '0G', '0H', '0M', '0N', '0O', '0P', '0Q'] ==> ['0C', '0F', '0G', '0H', '0M', '0N', '0O', '0P', '0Q']
+['0E', '0G', '0J', '0K', '0L', '0M', '0N', '0O'] ==> ['0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q']
+['0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q'] ==> ['0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q']
+['0C', '0F', '0G', '0H', '0M', '0N', '0O', '0P', '0Q'] ==> ['0B', '0C', '0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q']
+['0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q'] ==> ['0B', '0C', '0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q']
+['0B', '0C', '0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q'] ==> []
+
+Exact count =  80
+Size of the supergraph  (15, 65)
+The (derivation cost+ HT construction cost) of the hierarchy =  232
+The (derivation cost + HT construction cost) of no hierarchy =  439
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0D.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0H.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0Q.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0G.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0O.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0L.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0I.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0M.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0E.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0F.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0J.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0N.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0K.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0C.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0P.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0B.txt
+Num of DAG created =  16
+Exact count =  14
+
+Size of the supergraph  (15, 65)
+
+ The derivation + HT construction cost of the hierarchy Learned = 232
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  193
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  439 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 16, 34 )

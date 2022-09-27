@@ -1,0 +1,22 @@
+a : f 
+b : a 
+c : 
+d : c 
+e : d 
+f : g 
+g : h 
+h : 
+i : g f 
+j : a 
+k : 
+l : o 
+m : o n k 
+n : l 
+o : k 
+p : v t 
+q : t v p u s 
+r : v q 
+s : u 
+t : 
+u : p t 
+v : t 

@@ -1,0 +1,100 @@
+a : b 
+b : 
+c : b a 
+d : b a c 
+e : c d 
+f : b h i 
+g : f d e 
+h : b 
+i : j b h 
+j : h 
+k : o 
+l : k 
+m : k l 
+n : 
+o : n 
+p : r 
+q : p v t 
+r : 
+s : v t q 
+t : v 
+u : p 
+v : u 
+w : bf z bg bk 
+x : bd bj ba bl 
+y : bg w 
+z : bj bb 
+ba : z 
+bb : bj bi 
+bc : bi 
+bd : bc bi 
+be : x ba bb bl 
+bf : bd be bh bk 
+bg : bh ba bf 
+bh : z be 
+bi : 
+bj : bd 
+bk : bj be bh 
+bl : ba 
+bm : cr de 
+bn : bo bq br 
+bo : bt co cu cj 
+bp : bq cq dd dk dm 
+bq : bo br 
+br : co bm bo 
+bs : du 
+bt : bm cd 
+bu : da cd dn 
+bv : cl by 
+bw : cz dq 
+bx : cu dj cg 
+by : cj dg dl 
+bz : da 
+ca : dk di cg 
+cb : cg cf 
+cc : co dn bv dq cx 
+cd : cn cw 
+ce : bp de dm 
+cf : cq ci 
+cg : cw bu 
+ch : dh cv cc 
+ci : du dl da by 
+cj : dj dv db de 
+ck : cj bv 
+cl : bo da dd cf cb cm by 
+cm : bw dl cb 
+cn : dp da dn 
+co : cy dt cj bt 
+cp : dd cs cx cc ds 
+cq : dt de cj 
+cr : cq bz dv cd 
+cs : dv ct bz 
+ct : cv dq 
+cu : cn db dj 
+cv : bo br cb ck cm 
+cw : dn cn 
+cx : do 
+cy : bu cw bx dr 
+cz : bs dq 
+da : 
+db : cw bu cg 
+dc : dr cy 
+dd : bn 
+de : cn dt 
+df : bz de bv cp ds 
+dg : bm bw 
+dh : do bt cl ca df ds 
+di : cs 
+dj : dp db 
+dk : dd 
+dl : dg bx bu dq de 
+dm : bm dk 
+dn : da dp bz 
+do : de ce cw dm dl ca 
+dp : bz 
+dq : bx du bs 
+dr : bz bx 
+ds : dv bs ca do cc 
+dt : dc 
+du : ce 
+dv : dt dn de 

@@ -1,0 +1,79 @@
+Command line format to run the program:
+This program will run with default (current directory) or the given directory (as provided by the user in the command line) and look for DAG files (with .txt extensions).  and then contructs hierarchy by the learning algorithm and by reading the random hierarchy generated and stored in the folder. Then show the compared result.
+type -Dir Directory Name for providing the location of the DAG files
+Other wise type -h for help
+
+ python3 LearnHierarchy.py -Dir DirName
+None
+['LearnHierarchy.py', '-Dir', 'DAGs_4/C_4_D_3_NR_5_ER_15_DT_10']
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0D.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0H.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0Q.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0G.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0O.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0L.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0R.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0I.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0M.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0E.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0F.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0J.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0N.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0K.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0C.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0P.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0B.txt
+Num of DAG created =  17
+
+The hierarchy 
+ ['0I'] ==> ['0H', '0I', '0P', '0Q', '0R']
+['0M'] ==> ['0F', '0L', '0M']
+['0P'] ==> ['0M', '0P', '0Q', '0R']
+['0D'] ==> ['0D', '0E', '0J', '0K']
+['0R'] ==> ['0Q', '0R']
+['0J', '0O'] ==> ['0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q', '0R']
+['0Q', '0R'] ==> ['0M', '0P', '0Q', '0R']
+['0F', '0L', '0M'] ==> ['0E', '0F', '0J', '0K', '0L', '0M']
+['0M', '0P', '0Q', '0R'] ==> ['0H', '0K', '0L', '0M', '0N', '0P', '0Q', '0R']
+['0D', '0E', '0J', '0K'] ==> ['0B', '0D', '0E', '0F', '0J', '0K', '0L', '0M']
+['0H', '0I', '0P', '0Q', '0R'] ==> ['0C', '0G', '0H', '0I', '0N', '0O', '0P', '0Q', '0R']
+['0E', '0F', '0J', '0K', '0L', '0M'] ==> ['0B', '0D', '0E', '0F', '0J', '0K', '0L', '0M']
+['0G', '0H', '0N', '0O', '0P', '0Q', '0R'] ==> ['0C', '0G', '0H', '0I', '0N', '0O', '0P', '0Q', '0R']
+['0B', '0D', '0E', '0F', '0J', '0K', '0L', '0M'] ==> ['0B', '0C', '0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q', '0R']
+['0H', '0K', '0L', '0M', '0N', '0P', '0Q', '0R'] ==> ['0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q', '0R']
+['0C', '0G', '0H', '0I', '0N', '0O', '0P', '0Q', '0R'] ==> ['0B', '0C', '0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q', '0R']
+['0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q', '0R'] ==> ['0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q', '0R']
+['0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q', '0R'] ==> ['0B', '0C', '0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q', '0R']
+['0B', '0C', '0D', '0E', '0F', '0G', '0H', '0I', '0J', '0K', '0L', '0M', '0N', '0O', '0P', '0Q', '0R'] ==> []
+
+Exact count =  38
+Size of the supergraph  (10, 28)
+The (derivation cost+ HT construction cost) of the hierarchy =  75
+The (derivation cost + HT construction cost) of no hierarchy =  172
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0D.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0H.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0Q.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0G.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0O.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0L.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0R.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0I.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0M.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0E.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0F.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0J.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0N.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0K.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0C.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0P.txt
+././DAGs_4/C_4_D_3_NR_5_ER_15_DT_10/0B.txt
+Num of DAG created =  17
+Exact count =  19
+
+Size of the supergraph  (10, 28)
+
+ The derivation + HT construction cost of the hierarchy Learned = 75
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  81
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  172 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 17, 19 )

@@ -1,0 +1,50 @@
+Command line format to run the program:
+This program will run with default (current directory) or the given directory (as provided by the user in the command line) and look for DAG files (with .txt extensions).  and then contructs hierarchy by the learning algorithm and by reading the random hierarchy generated and stored in the folder. Then show the compared result.
+type -Dir Directory Name for providing the location of the DAG files
+Other wise type -h for help
+
+ python3 LearnHierarchy.py -Dir DirName
+None
+['HierarchyLearning.py', '-Dir', 'DAGs_4/C_5_D_3_NR_10_ER_20_DT_15']
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/BE.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0U.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0W.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/BF.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0D.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0H.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0Y.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0Q.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0G.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0O.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0V.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0L.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/BD.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/BJ.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/BA.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0T.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/BI.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/BC.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0R.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/BG.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/BB.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0I.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0X.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0M.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0S.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0E.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0F.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0J.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0N.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0K.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0C.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/BH.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0P.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0B.txt
+././DAGs_4/C_5_D_3_NR_10_ER_20_DT_15/0Z.txt
+Num of DAG created =  35
+67
+all labels size  213
+dag key size  184
+Hierarchy Learning cost:  269
+Hierarchy size:  63
+No hierarchy cost:  1048

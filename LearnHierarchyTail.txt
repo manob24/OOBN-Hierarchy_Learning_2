@@ -1,0 +1,384 @@
+0D  Count  Node Count 6 Edge Count 8 Best Reuse ('0C', 6) 0C  6, 
+0E  Count  Node Count 6 Edge Count 5 Best Reuse ('0C', 3) 0C  3, 
+0F  Count  Node Count 8 Edge Count 12 Best Reuse ('0D', 6) 0D  6, 
+0G  Count  Node Count 8 Edge Count 7 Best Reuse ('0E', 4) 0E  4, 
+
+Size of the supergraph  (8, 13)
+
+ The derivation + HT construction cost of the hierarchy Learned = 26
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  30
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  71 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 6, 7 )
+0D  Count  Node Count 10 Edge Count 17 Best Reuse ('0B', 16) 0B  16, 
+0E  Count  Node Count 10 Edge Count 16 Best Reuse ('0C', 14) 0C  14, 
+0F  Count  Node Count 15 Edge Count 32 Best Reuse ('0D', 20) 0D  20, 
+0G  Count  Node Count 15 Edge Count 31 Best Reuse ('0E', 20) 0E  20, 
+
+Size of the supergraph  (15, 58)
+
+ The derivation + HT construction cost of the hierarchy Learned = 99
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  93
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  169 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 6, 9 )
+0G  Count  Node Count 8 Edge Count 14 Best Reuse ('0E', 9) 0E  9, 
+0H  Count  Node Count 8 Edge Count 8 Best Reuse ('0E', 3) 0E  3, 
+0I  Count  Node Count 8 Edge Count 10 Best Reuse ('0F', 3) 0F  3, 
+0J  Count  Node Count 8 Edge Count 11 Best Reuse ('0F', 4) 0F  4, 
+
+Size of the supergraph  (8, 22)
+
+ The derivation + HT construction cost of the hierarchy Learned = 41
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  42
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  117 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 9, 11 )
+0H  Count  Node Count 15 Edge Count 30 Best Reuse ('0E', 18) 0E  18, 
+0I  Count  Node Count 15 Edge Count 21 Best Reuse ('0F', 13) 0F  13, 
+0J  Count  Node Count 22 Edge Count 51 Best Reuse ('0G', 26) 0G  26, 
+0K  Count  Node Count 17 Edge Count 32 Best Reuse ('0H', 4) 0H  4, 
+
+Size of the supergraph  (22, 78)
+
+ The derivation + HT construction cost of the hierarchy Learned = 148
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  131
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  345 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 10, 15 )
+00I  Count  Node Count 8 Edge Count 9 Best Reuse ('00F', 3) 00F  3, 
+00J  Count  Node Count 8 Edge Count 8 Best Reuse ('00G', 3) 00G  3, 
+00K  Count  Node Count 10 Edge Count 16 Best Reuse ('00H', 7) 00H  7, 
+00L  Count  Node Count 10 Edge Count 13 Best Reuse ('00I', 6) 00I  6, 
+
+Size of the supergraph  (10, 22)
+
+ The derivation + HT construction cost of the hierarchy Learned = 47
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  46
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  152 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 11, 13 )
+00K  Count  Node Count 38 Edge Count 91 Best Reuse ('00I', 72) 00I  72, 
+00L  Count  Node Count 38 Edge Count 86 Best Reuse ('00I', 67) 00I  67, 
+00M  Count  Node Count 38 Edge Count 78 Best Reuse ('00J', 53) 00J  53, 
+00N  Count  Node Count 38 Edge Count 74 Best Reuse ('00J', 49) 00J  49, 
+
+Size of the supergraph  (38, 228)
+
+ The derivation + HT construction cost of the hierarchy Learned = 352
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  370
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  755 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 13, 25 )
+00L  Count  Node Count 12 Edge Count 19 Best Reuse ('00H', 4) 00H  4, 
+00M  Count  Node Count 12 Edge Count 18 Best Reuse ('00I', 3) 00I  3, 
+00N  Count  Node Count 12 Edge Count 12 Best Reuse ('00J', 3) 00J  3, 
+00O  Count  Node Count 14 Edge Count 20 Best Reuse ('00J', 13) 00J  13, 
+
+Size of the supergraph  (14, 42)
+
+ The derivation + HT construction cost of the hierarchy Learned = 86
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  77
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  302 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 14, 18 )
+00M  Count  Node Count 38 Edge Count 110 Best Reuse ('00J', 68) 00J  68, 
+00N  Count  Node Count 38 Edge Count 90 Best Reuse ('00K', 61) 00K  61, 
+00O  Count  Node Count 100 Edge Count 363 Best Reuse ('00L', 318) 00L  318, 
+00P  Count  Node Count 100 Edge Count 331 Best Reuse ('00L', 286) 00L  286, 
+
+Size of the supergraph  (100, 2741)
+
+ The derivation + HT construction cost of the hierarchy Learned = 9926
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  970
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1747 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 39, 354 )
+0N  Count  Node Count 8 Edge Count 9 Best Reuse ('0G', 3) 0G  3, 
+0O  Count  Node Count 10 Edge Count 15 Best Reuse ('0G', 11) 0G  11, 
+0P  Count  Node Count 10 Edge Count 9 Best Reuse ('0H', 6) 0H  6, 
+0Q  Count  Node Count 10 Edge Count 9 Best Reuse ('0H', 6) 0H  6, 
+
+Size of the supergraph  (10, 34)
+
+ The derivation + HT construction cost of the hierarchy Learned = 72
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  92
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  234 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 16, 25 )
+0O  Count  Node Count 15 Edge Count 15 Best Reuse ('0H', 17) 0H  17, 
+0P  Count  Node Count 11 Edge Count 11 Best Reuse ('0H', 9) 0H  9, 
+0Q  Count  Node Count 15 Edge Count 21 Best Reuse ('0I', 16) 0I  16, 
+0R  Count  Node Count 15 Edge Count 19 Best Reuse ('0I', 14) 0I  14, 
+
+Size of the supergraph  (15, 90)
+
+ The derivation + HT construction cost of the hierarchy Learned = 264
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  208
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  432 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 17, 47 )
+0BL  Count  Node Count 12 Edge Count 14 Best Reuse ('00R', 10) 00R  10, 
+0BM  Count  Node Count 11 Edge Count 7 Best Reuse ('00S', 4) 00S  4, 
+0BN  Count  Node Count 12 Edge Count 8 Best Reuse ('00S', 6) 00S  6, 
+0BO  Count  Node Count 11 Edge Count 8 Best Reuse ('00S', 5) 00S  5, 
+
+Size of the supergraph  (12, 66)
+
+ The derivation + HT construction cost of the hierarchy Learned = 229
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  218
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  723 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 40, 50 )
+0BK  Count  Node Count 22 Edge Count 30 Best Reuse ('00R', 19) 00R  19, 
+0BL  Count  Node Count 22 Edge Count 25 Best Reuse ('00S', 18) 00S  18, 
+0BM  Count  Node Count 22 Edge Count 24 Best Reuse ('00S', 17) 00S  17, 
+0BN  Count  Node Count 22 Edge Count 26 Best Reuse ('00S', 19) 00S  19, 
+
+Size of the supergraph  (22, 163)
+
+ The derivation + HT construction cost of the hierarchy Learned = 825
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  641
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1661 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 39, 91 )
+0DG  Count  Node Count 15 Edge Count 15 Best Reuse ('0BR', 6) 0BR  6, 
+0DH  Count  Node Count 15 Edge Count 14 Best Reuse ('0BR', 5) 0BR  5, 
+0DI  Count  Node Count 15 Edge Count 15 Best Reuse ('0BS', 6) 0BS  6, 
+0DJ  Count  Node Count 15 Edge Count 15 Best Reuse ('0BS', 6) 0BS  6, 
+
+Size of the supergraph  (15, 87)
+
+ The derivation + HT construction cost of the hierarchy Learned = 683
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  486
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1988 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 87, 76 )
+0CH  Count  Node Count 38 Edge Count 62 Best Reuse ('0BD', 51) 0BD  51, 
+0CI  Count  Node Count 38 Edge Count 56 Best Reuse ('0BD', 45) 0BD  45, 
+0CJ  Count  Node Count 38 Edge Count 52 Best Reuse ('0BD', 41) 0BD  41, 
+0CK  Count  Node Count 26 Edge Count 27 Best Reuse ('0BE', 6) 0BE  6, 
+
+Size of the supergraph  (38, 437)
+
+ The derivation + HT construction cost of the hierarchy Learned = 3605
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  1991
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  4431 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 62, 319 )
+0FJ  Count  Node Count 19 Edge Count 25 Best Reuse ('0CX', 9) 0CX  9, 
+0FK  Count  Node Count 19 Edge Count 24 Best Reuse ('0CY', 8) 0CY  8, 
+0FL  Count  Node Count 19 Edge Count 25 Best Reuse ('0CY', 9) 0CY  9, 
+0FM  Count  Node Count 19 Edge Count 24 Best Reuse ('0CY', 8) 0CY  8, 
+
+Size of the supergraph  (19, 125)
+
+ The derivation + HT construction cost of the hierarchy Learned = 1320
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  856
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  3315 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 142, 113 )
+0HC  Count  Node Count 100 Edge Count 258 Best Reuse ('0DN', 263) 0DN  263, 
+0HD  Count  Node Count 100 Edge Count 256 Best Reuse ('0DN', 261) 0DN  261, 
+0HE  Count  Node Count 100 Edge Count 274 Best Reuse ('0DP', 268) 0DP  268, 
+0HF  Count  Node Count 100 Edge Count 263 Best Reuse ('0DP', 257) 0DP  257, 
+
+Size of the supergraph  (100, 4327)
+
+ The derivation + HT construction cost of the hierarchy Learned = 174963
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  24213
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  37511 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 187, 3873 )
+0Z  Count  Node Count 7 Edge Count 5 Best Reuse ('0J', 6) 0J  6, 
+BA  Count  Node Count 8 Edge Count 6 Best Reuse ('0K', 3) 0K  3, 
+BB  Count  Node Count 8 Edge Count 7 Best Reuse ('0K', 4) 0K  4, 
+BC  Count  Node Count 8 Edge Count 6 Best Reuse ('0K', 3) 0K  3, 
+
+Size of the supergraph  (8, 33)
+
+ The derivation + HT construction cost of the hierarchy Learned = 99
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  127
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  268 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 28, 30 )
+BO  Count  Node Count 15 Edge Count 20 Best Reuse ('0P', 12) 0P  12, 
+BP  Count  Node Count 15 Edge Count 18 Best Reuse ('0P', 10) 0P  10, 
+BQ  Count  Node Count 15 Edge Count 20 Best Reuse ('0P', 12) 0P  12, 
+BR  Count  Node Count 15 Edge Count 21 Best Reuse ('0P', 13) 0P  13, 
+
+Size of the supergraph  (15, 101)
+
+ The derivation + HT construction cost of the hierarchy Learned = 598
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  504
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1262 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 43, 68 )
+0CJ  Count  Node Count 14 Edge Count 17 Best Reuse ('00Z', 7) 00Z  7, 
+0CK  Count  Node Count 12 Edge Count 15 Best Reuse ('00Z', 3) 00Z  3, 
+0CL  Count  Node Count 12 Edge Count 15 Best Reuse ('00Z', 3) 00Z  3, 
+0CM  Count  Node Count 14 Edge Count 19 Best Reuse ('00Z', 9) 00Z  9, 
+
+Size of the supergraph  (14, 70)
+
+ The derivation + HT construction cost of the hierarchy Learned = 383
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  324
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1149 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 64, 64 )
+0DW  Count  Node Count 22 Edge Count 29 Best Reuse ('0BN', 19) 0BN  19, 
+0DX  Count  Node Count 22 Edge Count 26 Best Reuse ('0BO', 17) 0BO  17, 
+0DY  Count  Node Count 22 Edge Count 30 Best Reuse ('0BO', 21) 0BO  21, 
+0DZ  Count  Node Count 22 Edge Count 28 Best Reuse ('0BO', 19) 0BO  19, 
+
+Size of the supergraph  (22, 156)
+
+ The derivation + HT construction cost of the hierarchy Learned = 2152
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  1620
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  4282 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 103, 110 )
+0FG  Count  Node Count 15 Edge Count 15 Best Reuse ('0CF', 5) 0CF  5, 
+0FH  Count  Node Count 15 Edge Count 16 Best Reuse ('0CF', 6) 0CF  6, 
+0FI  Count  Node Count 15 Edge Count 16 Best Reuse ('0CF', 6) 0CF  6, 
+0FJ  Count  Node Count 18 Edge Count 23 Best Reuse ('0CF', 16) 0CF  16, 
+
+Size of the supergraph  (18, 116)
+
+ The derivation + HT construction cost of the hierarchy Learned = 1062
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  773
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  3138 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 139, 89 )
+0GU  Count  Node Count 38 Edge Count 62 Best Reuse ('0CT', 54) 0CT  54, 
+0GV  Count  Node Count 38 Edge Count 62 Best Reuse ('0CT', 54) 0CT  54, 
+0GW  Count  Node Count 38 Edge Count 57 Best Reuse ('0CT', 49) 0CT  49, 
+0GX  Count  Node Count 38 Edge Count 58 Best Reuse ('0CT', 50) 0CT  50, 
+
+Size of the supergraph  (38, 498)
+
+ The derivation + HT construction cost of the hierarchy Learned = 9578
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  6398
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  14085 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 179, 359 )
+00LB  Count  Node Count 22 Edge Count 33 Best Reuse ('00EW', 11) 00EW  11, 
+00LC  Count  Node Count 22 Edge Count 32 Best Reuse ('00EX', 10) 00EX  10, 
+00LD  Count  Node Count 22 Edge Count 34 Best Reuse ('00EX', 12) 00EX  12, 
+00LE  Count  Node Count 22 Edge Count 34 Best Reuse ('00EX', 12) 00EX  12, 
+
+Size of the supergraph  (23, 186)
+
+ The derivation + HT construction cost of the hierarchy Learned = 3477
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  1874
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  8852 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 290, 145 )
+00TE  Count  Node Count 100 Edge Count 233 Best Reuse ('00HQ', 247) 00HQ  247, 
+00TF  Count  Node Count 100 Edge Count 238 Best Reuse ('00HQ', 252) 00HQ  252, 
+00TG  Count  Node Count 100 Edge Count 89 Best Reuse ('00HQ', 103) 00HQ  103, 
+00TH  Count  Node Count 100 Edge Count 221 Best Reuse ('00HR', 224) 00HR  224, 
+
+Size of the supergraph  (100, 4497)
+
+ The derivation + HT construction cost of the hierarchy Learned = 346051
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  74600
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  114042 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 501, 4260 )
+0BR  Count  Node Count 8 Edge Count 5 Best Reuse ('00P', 3) 00P  3, 
+0BS  Count  Node Count 8 Edge Count 5 Best Reuse ('00P', 3) 00P  3, 
+0BT  Count  Node Count 10 Edge Count 9 Best Reuse ('00P', 9) 00P  9, 
+0BU  Count  Node Count 9 Edge Count 7 Best Reuse ('00P', 6) 00P  6, 
+
+Size of the supergraph  (10, 45)
+
+ The derivation + HT construction cost of the hierarchy Learned = 221
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  250
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  598 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 46, 47 )
+0BX  Count  Node Count 15 Edge Count 19 Best Reuse ('00P', 10) 00P  10, 
+0BY  Count  Node Count 15 Edge Count 19 Best Reuse ('00Q', 12) 00Q  12, 
+0BZ  Count  Node Count 15 Edge Count 20 Best Reuse ('00Q', 13) 00Q  13, 
+0CA  Count  Node Count 15 Edge Count 20 Best Reuse ('00Q', 13) 00Q  13, 
+
+Size of the supergraph  (15, 100)
+
+ The derivation + HT construction cost of the hierarchy Learned = 702
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  621
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1568 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 52, 62 )
+0FH  Count  Node Count 10 Edge Count 7 Best Reuse ('0BS', 3) 0BS  3, 
+0FI  Count  Node Count 12 Edge Count 14 Best Reuse ('0BT', 6) 0BT  6, 
+0FJ  Count  Node Count 12 Edge Count 14 Best Reuse ('0BT', 6) 0BT  6, 
+0FK  Count  Node Count 12 Edge Count 13 Best Reuse ('0BT', 5) 0BT  5, 
+
+Size of the supergraph  (12, 71)
+
+ The derivation + HT construction cost of the hierarchy Learned = 899
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  758
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  2526 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 140, 63 )
+0GW  Count  Node Count 22 Edge Count 31 Best Reuse ('0CF', 19) 0CF  19, 
+0GX  Count  Node Count 22 Edge Count 31 Best Reuse ('0CF', 19) 0CF  19, 
+0GY  Count  Node Count 22 Edge Count 28 Best Reuse ('0CF', 16) 0CF  16, 
+0GZ  Count  Node Count 22 Edge Count 29 Best Reuse ('0CF', 17) 0CF  17, 
+
+Size of the supergraph  (22, 161)
+
+ The derivation + HT construction cost of the hierarchy Learned = 4317
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  2932
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  8373 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 181, 108 )
+00NX  Count  Node Count 19 Edge Count 25 Best Reuse ('00EP', 9) 00EP  9, 
+00NY  Count  Node Count 19 Edge Count 22 Best Reuse ('00EQ', 7) 00EQ  7, 
+00NZ  Count  Node Count 19 Edge Count 23 Best Reuse ('00EQ', 8) 00EQ  8, 
+00OA  Count  Node Count 19 Edge Count 24 Best Reuse ('00EQ', 9) 00EQ  9, 
+
+Size of the supergraph  (23, 214)
+
+ The derivation + HT construction cost of the hierarchy Learned = 4049
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  2315
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  10593 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 364, 166 )
+00OT  Count  Node Count 38 Edge Count 54 Best Reuse ('00EW', 46) 00EW  46, 
+00OU  Count  Node Count 33 Edge Count 32 Best Reuse ('00EW', 19) 00EW  19, 
+00OV  Count  Node Count 38 Edge Count 55 Best Reuse ('00EX', 47) 00EX  47, 
+00OW  Count  Node Count 29 Edge Count 28 Best Reuse ('00EX', 11) 00EX  11, 
+
+Size of the supergraph  (38, 466)
+
+ The derivation + HT construction cost of the hierarchy Learned = 18743
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  12663
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  28472 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 386, 382 )
+0BDD  Count  Node Count 19 Edge Count 21 Best Reuse ('00LC', 9) 00LC  9, 
+0BDE  Count  Node Count 19 Edge Count 21 Best Reuse ('00LD', 8) 00LD  8, 
+0BDF  Count  Node Count 19 Edge Count 22 Best Reuse ('00LD', 9) 00LD  9, 
+0BDG  Count  Node Count 19 Edge Count 21 Best Reuse ('00LD', 8) 00LD  8, 
+
+Size of the supergraph  (23, 207)
+
+ The derivation + HT construction cost of the hierarchy Learned = 9320
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  5177
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  22120 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 760, 188 )
+0BPG  Count  Node Count 100 Edge Count 165 Best Reuse ('00NS', 166) 00NS  166, 
+0BPH  Count  Node Count 92 Edge Count 131 Best Reuse ('00NT', 125) 00NT  125, 
+0BPI  Count  Node Count 100 Edge Count 243 Best Reuse ('00NT', 245) 00NT  245, 
+0BPJ  Count  Node Count 100 Edge Count 241 Best Reuse ('00NT', 243) 00NT  243, 
+
+Size of the supergraph  (100, 4570)
+
+ The derivation + HT construction cost of the hierarchy Learned = 430510
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  179089
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  270950 
+
+Num of DAGs in (Random, Learned) hierarchy = ( 1075, 4240 )

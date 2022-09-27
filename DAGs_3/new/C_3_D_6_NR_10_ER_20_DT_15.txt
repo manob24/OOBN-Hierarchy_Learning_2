@@ -1,0 +1,37 @@
+Command line format to run the program:
+This program will run with default (current directory) or the given directory (as provided by the user in the command line) and look for DAG files (with .txt extensions).  and then contructs hierarchy by the learning algorithm and by reading the random hierarchy generated and stored in the folder. Then show the compared result.
+type -Dir Directory Name for providing the location of the DAG files
+Other wise type -h for help
+
+ python3 LearnHierarchy.py -Dir DirName
+None
+['HierarchyLearning.py', '-Dir', 'DAGs_3/C_3_D_6_NR_10_ER_20_DT_15']
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00T.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00F.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00V.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00D.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00I.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00P.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00O.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00W.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00B.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00E.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00C.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00N.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00G.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00J.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00R.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00K.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00H.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00M.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00S.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00U.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  22
+69
+all labels size  80
+dag key size  61
+Hierarchy Learning cost:  688
+Hierarchy size:  36
+No hierarchy cost:  1375
