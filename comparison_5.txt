@@ -1,0 +1,708 @@
+Num of DAG created =  4
+Exact count =  9
+
+Size of the supergraph  (6, 11)
+
+ The derivation + HT construction cost of the hierarchy Learned = 17
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  19
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  33 
+
+Ratio Cost of hierarchy read =  6.166666666666667
+Ratio Cost of learned hierarchy =  5.166666666666666
+Num of DAGs in (Random, Learned) hierarchy = ( 4, 5 )
+././DAGs_5/C_3_D_3_NR_5_ER_15_DT_10/0D.txt
+././DAGs_5/C_3_D_3_NR_5_ER_15_DT_10/0E.txt
+././DAGs_5/C_3_D_3_NR_5_ER_15_DT_10/0C.txt
+././DAGs_5/C_3_D_3_NR_5_ER_15_DT_10/0B.txt
+Num of DAG created =  4
+5
+all labels size  5
+dag key size  4
+Hierarchy Learning cost:  17
+Hierarchy size:  7
+Ratio Cost:  5.166666666666667
+No hierarchy cost:  33
+Num of DAG created =  6
+Exact count =  20
+
+Size of the supergraph  (15, 47)
+
+ The derivation + HT construction cost of the hierarchy Learned = 92
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  83
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  155 
+
+Ratio Cost of hierarchy read =  24.82405956112853
+Ratio Cost of learned hierarchy =  12.770488132557098
+Num of DAGs in (Random, Learned) hierarchy = ( 6, 9 )
+././DAGs_5/C_3_D_3_NR_10_ER_20_DT_15/0E.txt
+././DAGs_5/C_3_D_3_NR_10_ER_20_DT_15/0F.txt
+././DAGs_5/C_3_D_3_NR_10_ER_20_DT_15/0C.txt
+././DAGs_5/C_3_D_3_NR_10_ER_20_DT_15/0B.txt
+Num of DAG created =  6
+9
+all labels size  9
+dag key size  6
+Hierarchy Learning cost:  77
+Hierarchy size:  10
+Ratio Cost:  11.10950328407225
+No hierarchy cost:  155
+Num of DAG created =  7
+Exact count =  9
+
+Size of the supergraph  (8, 21)
+
+ The derivation + HT construction cost of the hierarchy Learned = 33
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  38
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  85 
+
+Ratio Cost of hierarchy read =  12.383333333333333
+Ratio Cost of learned hierarchy =  6.097979797979798
+Num of DAGs in (Random, Learned) hierarchy = ( 7, 10 )
+././DAGs_5/C_3_D_4_NR_5_ER_15_DT_10/0E.txt
+././DAGs_5/C_3_D_4_NR_5_ER_15_DT_10/0F.txt
+././DAGs_5/C_3_D_4_NR_5_ER_15_DT_10/0C.txt
+././DAGs_5/C_3_D_4_NR_5_ER_15_DT_10/0B.txt
+Num of DAG created =  7
+10
+all labels size  10
+dag key size  6
+Hierarchy Learning cost:  31
+Hierarchy size:  13
+Ratio Cost:  5.916161616161617
+No hierarchy cost:  85
+Num of DAG created =  9
+Exact count =  48
+
+Size of the supergraph  (22, 94)
+
+ The derivation + HT construction cost of the hierarchy Learned = 131
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  148
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  361 
+
+Ratio Cost of hierarchy read =  17.311630036630035
+Ratio Cost of learned hierarchy =  15.863018925518926
+Num of DAGs in (Random, Learned) hierarchy = ( 9, 14 )
+././DAGs_5/C_3_D_4_NR_10_ER_20_DT_15/0F.txt
+././DAGs_5/C_3_D_4_NR_10_ER_20_DT_15/0J.txt
+././DAGs_5/C_3_D_4_NR_10_ER_20_DT_15/0C.txt
+././DAGs_5/C_3_D_4_NR_10_ER_20_DT_15/0B.txt
+Num of DAG created =  9
+14
+all labels size  14
+dag key size  11
+Hierarchy Learning cost:  123
+Hierarchy size:  17
+Ratio Cost:  15.610935592185594
+No hierarchy cost:  361
+Num of DAG created =  13
+Exact count =  5
+
+Size of the supergraph  (12, 30)
+
+ The derivation + HT construction cost of the hierarchy Learned = 68
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  65
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  280 
+
+Ratio Cost of hierarchy read =  13.180674760022587
+Ratio Cost of learned hierarchy =  7.411074242039447
+Num of DAGs in (Random, Learned) hierarchy = ( 13, 16 )
+././DAGs_5/C_3_D_5_NR_5_ER_15_DT_10/00K.txt
+././DAGs_5/C_3_D_5_NR_5_ER_15_DT_10/00H.txt
+././DAGs_5/C_3_D_5_NR_5_ER_15_DT_10/00M.txt
+././DAGs_5/C_3_D_5_NR_5_ER_15_DT_10/00L.txt
+Num of DAG created =  13
+16
+all labels size  20
+dag key size  16
+Hierarchy Learning cost:  57
+Hierarchy size:  23
+Ratio Cost:  6.884108945230297
+No hierarchy cost:  280
+Num of DAG created =  12
+Exact count =  112
+
+Size of the supergraph  (38, 184)
+
+ The derivation + HT construction cost of the hierarchy Learned = 313
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  275
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  743 
+
+Ratio Cost of hierarchy read =  18.238760123037626
+Ratio Cost of learned hierarchy =  19.146075442759294
+Num of DAGs in (Random, Learned) hierarchy = ( 12, 22 )
+././DAGs_5/C_3_D_5_NR_10_ER_20_DT_15/00K.txt
+././DAGs_5/C_3_D_5_NR_10_ER_20_DT_15/00H.txt
+././DAGs_5/C_3_D_5_NR_10_ER_20_DT_15/00M.txt
+././DAGs_5/C_3_D_5_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  12
+22
+all labels size  26
+dag key size  21
+Hierarchy Learning cost:  257
+Hierarchy size:  21
+Ratio Cost:  17.71531743442776
+No hierarchy cost:  743
+Num of DAG created =  27
+Exact count =  26
+
+Size of the supergraph  (17, 75)
+
+ The derivation + HT construction cost of the hierarchy Learned = 175
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  172
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  731 
+
+Ratio Cost of hierarchy read =  20.5915666933564
+Ratio Cost of learned hierarchy =  11.764585159128744
+Num of DAGs in (Random, Learned) hierarchy = ( 27, 39 )
+././DAGs_5/C_3_D_6_NR_5_ER_15_DT_10/00S.txt
+././DAGs_5/C_3_D_6_NR_5_ER_15_DT_10/00U.txt
+././DAGs_5/C_3_D_6_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_5/C_3_D_6_NR_5_ER_15_DT_10/00L.txt
+Num of DAG created =  27
+39
+all labels size  63
+dag key size  47
+Hierarchy Learning cost:  157
+Hierarchy size:  48
+Ratio Cost:  10.697543156274333
+No hierarchy cost:  731
+Num of DAG created =  16
+Exact count =  235
+
+Size of the supergraph  (100, 937)
+
+ The derivation + HT construction cost of the hierarchy Learned = 1586
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  484
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  823 
+
+Ratio Cost of hierarchy read =  30.3653497799799
+Ratio Cost of learned hierarchy =  46.15623577756765
+Num of DAGs in (Random, Learned) hierarchy = ( 16, 47 )
+././DAGs_5/C_3_D_6_NR_10_ER_20_DT_15/00H.txt
+././DAGs_5/C_3_D_6_NR_10_ER_20_DT_15/00M.txt
+././DAGs_5/C_3_D_6_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_5/C_3_D_6_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  16
+47
+all labels size  56
+dag key size  49
+Hierarchy Learning cost:  1316
+Hierarchy size:  29
+Ratio Cost:  41.64871429245156
+No hierarchy cost:  2075
+Num of DAG created =  18
+Exact count =  15
+
+Size of the supergraph  (10, 28)
+
+ The derivation + HT construction cost of the hierarchy Learned = 67
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  86
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  231 
+
+Ratio Cost of hierarchy read =  18.943431568431567
+Ratio Cost of learned hierarchy =  9.181426906426907
+Num of DAGs in (Random, Learned) hierarchy = ( 18, 18 )
+././DAGs_5/C_4_D_3_NR_5_ER_15_DT_10/0K.txt
+././DAGs_5/C_4_D_3_NR_5_ER_15_DT_10/0C.txt
+././DAGs_5/C_4_D_3_NR_5_ER_15_DT_10/0P.txt
+././DAGs_5/C_4_D_3_NR_5_ER_15_DT_10/0B.txt
+Num of DAG created =  18
+18
+all labels size  28
+dag key size  22
+Hierarchy Learning cost:  56
+Hierarchy size:  29
+Ratio Cost:  8.047807747807747
+No hierarchy cost:  231
+Num of DAG created =  21
+Exact count =  27
+
+Size of the supergraph  (15, 87)
+
+ The derivation + HT construction cost of the hierarchy Learned = 329
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  255
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  613 
+
+Ratio Cost of hierarchy read =  48.17298127798128
+Ratio Cost of learned hierarchy =  25.48619549987022
+Num of DAGs in (Random, Learned) hierarchy = ( 21, 45 )
+././DAGs_5/C_4_D_3_NR_10_ER_20_DT_15/0K.txt
+././DAGs_5/C_4_D_3_NR_10_ER_20_DT_15/0C.txt
+././DAGs_5/C_4_D_3_NR_10_ER_20_DT_15/0P.txt
+././DAGs_5/C_4_D_3_NR_10_ER_20_DT_15/0B.txt
+Num of DAG created =  21
+45
+all labels size  111
+dag key size  95
+Hierarchy Learning cost:  208
+Hierarchy size:  37
+Ratio Cost:  17.636517275117644
+No hierarchy cost:  613
+Num of DAG created =  30
+Exact count =  19
+
+Size of the supergraph  (12, 54)
+
+ The derivation + HT construction cost of the hierarchy Learned = 177
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  157
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  502 
+
+Ratio Cost of hierarchy read =  24.098793458003982
+Ratio Cost of learned hierarchy =  17.584193678698323
+Num of DAGs in (Random, Learned) hierarchy = ( 30, 36 )
+././DAGs_5/C_4_D_4_NR_5_ER_15_DT_10/00S.txt
+././DAGs_5/C_4_D_4_NR_5_ER_15_DT_10/00U.txt
+././DAGs_5/C_4_D_4_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_5/C_4_D_4_NR_5_ER_15_DT_10/00L.txt
+Num of DAG created =  30
+36
+all labels size  66
+dag key size  58
+Hierarchy Learning cost:  133
+Hierarchy size:  49
+Ratio Cost:  13.56678780119687
+No hierarchy cost:  502
+Num of DAG created =  40
+Exact count =  43
+
+Size of the supergraph  (22, 164)
+
+ The derivation + HT construction cost of the hierarchy Learned = 799
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  624
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1651 
+
+Ratio Cost of hierarchy read =  56.8220999906294
+Ratio Cost of learned hierarchy =  39.26665254561441
+Num of DAGs in (Random, Learned) hierarchy = ( 40, 92 )
+././DAGs_5/C_4_D_4_NR_10_ER_20_DT_15/00U.txt
+././DAGs_5/C_4_D_4_NR_10_ER_20_DT_15/0BG.txt
+././DAGs_5/C_4_D_4_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_5/C_4_D_4_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  40
+92
+all labels size  547
+dag key size  512
+Hierarchy Learning cost:  507
+Hierarchy size:  71
+Ratio Cost:  23.547496347710787
+No hierarchy cost:  1651
+Num of DAG created =  79
+Exact count =  32
+
+Size of the supergraph  (15, 90)
+
+ The derivation + HT construction cost of the hierarchy Learned = 470
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  382
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1434 
+
+Ratio Cost of hierarchy read =  41.00506584152598
+Ratio Cost of learned hierarchy =  39.807171201766046
+Num of DAGs in (Random, Learned) hierarchy = ( 79, 74 )
+././DAGs_5/C_4_D_5_NR_5_ER_15_DT_10/0CT.txt
+././DAGs_5/C_4_D_5_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_5/C_4_D_5_NR_5_ER_15_DT_10/00L.txt
+././DAGs_5/C_4_D_5_NR_5_ER_15_DT_10/0CP.txt
+Num of DAG created =  79
+74
+all labels size  146
+dag key size  112
+Hierarchy Learning cost:  384
+Hierarchy size:  125
+Ratio Cost:  31.886359826216463
+No hierarchy cost:  1434
+Num of DAG created =  75
+Exact count =  93
+
+Size of the supergraph  (38, 482)
+
+ The derivation + HT construction cost of the hierarchy Learned = 4072
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  2607
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  5852 
+
+Ratio Cost of hierarchy read =  77.2680501827078
+Ratio Cost of learned hierarchy =  115.93066756701664
+Num of DAGs in (Random, Learned) hierarchy = ( 75, 338 )
+././DAGs_5/C_4_D_5_NR_10_ER_20_DT_15/0CT.txt
+././DAGs_5/C_4_D_5_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_5/C_4_D_5_NR_10_ER_20_DT_15/00L.txt
+././DAGs_5/C_4_D_5_NR_10_ER_20_DT_15/0CP.txt
+Num of DAG created =  75
+338
+all labels size  4467
+dag key size  4428
+Hierarchy Learning cost:  2264
+Hierarchy size:  130
+Ratio Cost:  53.63217135949143
+No hierarchy cost:  5852
+Num of DAG created =  128
+Exact count =  57
+
+Size of the supergraph  (23, 166)
+
+ The derivation + HT construction cost of the hierarchy Learned = 1518
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  884
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  3887 
+
+Ratio Cost of hierarchy read =  52.138593305250886
+Ratio Cost of learned hierarchy =  78.85401464726276
+Num of DAGs in (Random, Learned) hierarchy = ( 128, 119 )
+././DAGs_5/C_4_D_6_NR_5_ER_15_DT_10/0CT.txt
+././DAGs_5/C_4_D_6_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_5/C_4_D_6_NR_5_ER_15_DT_10/00L.txt
+././DAGs_5/C_4_D_6_NR_5_ER_15_DT_10/0CP.txt
+Num of DAG created =  128
+119
+all labels size  883
+dag key size  829
+Hierarchy Learning cost:  916
+Hierarchy size:  201
+Ratio Cost:  45.01413537863316
+No hierarchy cost:  3887
+Num of DAG created =  108
+Exact count =  872
+
+Size of the supergraph  (100, 4120)
+
+ The derivation + HT construction cost of the hierarchy Learned = 74913
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  15008
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  23182 
+
+Ratio Cost of hierarchy read =  182.06656848117643
+Ratio Cost of learned hierarchy =  1614.7145595223853
+Num of DAGs in (Random, Learned) hierarchy = ( 108, 2837 )
+././DAGs_5/C_4_D_6_NR_10_ER_20_DT_15/0CT.txt
+././DAGs_5/C_4_D_6_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_5/C_4_D_6_NR_10_ER_20_DT_15/00L.txt
+././DAGs_5/C_4_D_6_NR_10_ER_20_DT_15/0CP.txt
+Num of DAG created =  108
+2837
+all labels size  6872
+dag key size  6651
+Hierarchy Learning cost:  14173
+Hierarchy size:  184
+Ratio Cost:  156.48810294746016
+No hierarchy cost:  23182
+Num of DAG created =  27
+Exact count =  15
+
+Size of the supergraph  (10, 42)
+
+ The derivation + HT construction cost of the hierarchy Learned = 142
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  139
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  382 
+
+Ratio Cost of hierarchy read =  28.679639804639795
+Ratio Cost of learned hierarchy =  16.967459338047576
+Num of DAGs in (Random, Learned) hierarchy = ( 27, 39 )
+././DAGs_5/C_5_D_3_NR_5_ER_15_DT_10/0C.txt
+././DAGs_5/C_5_D_3_NR_5_ER_15_DT_10/0P.txt
+././DAGs_5/C_5_D_3_NR_5_ER_15_DT_10/0B.txt
+././DAGs_5/C_5_D_3_NR_5_ER_15_DT_10/0Z.txt
+Num of DAG created =  27
+39
+all labels size  59
+dag key size  46
+Hierarchy Learning cost:  97
+Hierarchy size:  46
+Ratio Cost:  12.01644375426849
+No hierarchy cost:  382
+Num of DAG created =  16
+Exact count =  29
+
+Size of the supergraph  (15, 67)
+
+ The derivation + HT construction cost of the hierarchy Learned = 147
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  178
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  440 
+
+Ratio Cost of hierarchy read =  31.481116584564873
+Ratio Cost of learned hierarchy =  14.824068627149575
+Num of DAGs in (Random, Learned) hierarchy = ( 16, 34 )
+././DAGs_5/C_5_D_3_NR_10_ER_20_DT_15/0K.txt
+././DAGs_5/C_5_D_3_NR_10_ER_20_DT_15/0C.txt
+././DAGs_5/C_5_D_3_NR_10_ER_20_DT_15/0P.txt
+././DAGs_5/C_5_D_3_NR_10_ER_20_DT_15/0B.txt
+Num of DAG created =  16
+34
+all labels size  54
+dag key size  37
+Hierarchy Learning cost:  126
+Hierarchy size:  27
+Ratio Cost:  13.833222540846378
+No hierarchy cost:  440
+Num of DAG created =  45
+Exact count =  17
+
+Size of the supergraph  (12, 46)
+
+ The derivation + HT construction cost of the hierarchy Learned = 189
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  203
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  635 
+
+Ratio Cost of hierarchy read =  40.360192258721675
+Ratio Cost of learned hierarchy =  20.053635038851752
+Num of DAGs in (Random, Learned) hierarchy = ( 45, 42 )
+././DAGs_5/C_5_D_4_NR_5_ER_15_DT_10/00U.txt
+././DAGs_5/C_5_D_4_NR_5_ER_15_DT_10/0BG.txt
+././DAGs_5/C_5_D_4_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_5/C_5_D_4_NR_5_ER_15_DT_10/00L.txt
+Num of DAG created =  45
+42
+all labels size  115
+dag key size  96
+Hierarchy Learning cost:  146
+Hierarchy size:  76
+Ratio Cost:  15.95736828960513
+No hierarchy cost:  635
+Num of DAG created =  77
+Exact count =  37
+
+Size of the supergraph  (22, 161)
+
+ The derivation + HT construction cost of the hierarchy Learned = 1870
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  1238
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  3628 
+
+Ratio Cost of hierarchy read =  86.01293694103686
+Ratio Cost of learned hierarchy =  86.25298360384164
+Num of DAGs in (Random, Learned) hierarchy = ( 77, 109 )
+././DAGs_5/C_5_D_4_NR_10_ER_20_DT_15/0CT.txt
+././DAGs_5/C_5_D_4_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_5/C_5_D_4_NR_10_ER_20_DT_15/00L.txt
+././DAGs_5/C_5_D_4_NR_10_ER_20_DT_15/0CP.txt
+Num of DAG created =  77
+109
+all labels size  4572
+dag key size  4514
+Hierarchy Learning cost:  929
+Hierarchy size:  142
+Ratio Cost:  34.88598400269505
+No hierarchy cost:  3628
+Num of DAG created =  162
+Exact count =  30
+
+Size of the supergraph  (18, 111)
+
+ The derivation + HT construction cost of the hierarchy Learned = 1349
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  869
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  3931 
+
+Ratio Cost of hierarchy read =  64.64982571267826
+Ratio Cost of learned hierarchy =  85.22331697751005
+Num of DAGs in (Random, Learned) hierarchy = ( 162, 95 )
+././DAGs_5/C_5_D_5_NR_5_ER_15_DT_10/0CT.txt
+././DAGs_5/C_5_D_5_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_5/C_5_D_5_NR_5_ER_15_DT_10/00L.txt
+././DAGs_5/C_5_D_5_NR_5_ER_15_DT_10/0CP.txt
+Num of DAG created =  162
+95
+all labels size  1086
+dag key size  1031
+Hierarchy Learning cost:  630
+Hierarchy size:  269
+Ratio Cost:  38.02895834957813
+No hierarchy cost:  3931
+Num of DAG created =  227
+Exact count =  53
+
+Size of the supergraph  (38, 455)
+
+ The derivation + HT construction cost of the hierarchy Learned = 13120
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  5883
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  12925 
+
+Ratio Cost of hierarchy read =  165.69316213547327
+Ratio Cost of learned hierarchy =  419.8049748279424
+Num of DAGs in (Random, Learned) hierarchy = ( 227, 369 )
+Num of DAG created =  346
+Exact count =  22
+
+Size of the supergraph  (27, 251)
+
+ The derivation + HT construction cost of the hierarchy Learned = 4060
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  2000
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  8743 
+
+Ratio Cost of hierarchy read =  117.15644426534267
+Ratio Cost of learned hierarchy =  232.2696799446006
+Num of DAGs in (Random, Learned) hierarchy = ( 346, 199 )
+././DAGs_5/C_5_D_6_NR_5_ER_15_DT_10/00LO.txt
+././DAGs_5/C_5_D_6_NR_5_ER_15_DT_10/00IG.txt
+././DAGs_5/C_5_D_6_NR_5_ER_15_DT_10/00DP.txt
+././DAGs_5/C_5_D_6_NR_5_ER_15_DT_10/00MZ.txt
+Num of DAG created =  346
+199
+all labels size  5608
+dag key size  5389
+Hierarchy Learning cost:  1885
+Hierarchy size:  595
+Ratio Cost:  89.17581233793281
+No hierarchy cost:  10022
+Num of DAG created =  446
+Exact count =  179
+
+Size of the supergraph  (100, 4441)
+
+ The derivation + HT construction cost of the hierarchy Learned = 162645
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  70823
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  108468 
+
+Ratio Cost of hierarchy read =  754.2174289086361
+Ratio Cost of learned hierarchy =  2161.9134887193018
+Num of DAGs in (Random, Learned) hierarchy = ( 446, 4182 )
+Num of DAG created =  50
+Exact count =  16
+
+Size of the supergraph  (10, 50)
+
+ The derivation + HT construction cost of the hierarchy Learned = 246
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  241
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  676 
+
+Ratio Cost of hierarchy read =  47.00012210012212
+Ratio Cost of learned hierarchy =  28.811549806402738
+Num of DAGs in (Random, Learned) hierarchy = ( 50, 48 )
+././DAGs_5/C_6_D_3_NR_5_ER_15_DT_10/00U.txt
+././DAGs_5/C_6_D_3_NR_5_ER_15_DT_10/0BG.txt
+././DAGs_5/C_6_D_3_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_5/C_6_D_3_NR_5_ER_15_DT_10/00L.txt
+Num of DAG created =  50
+48
+all labels size  107
+dag key size  93
+Hierarchy Learning cost:  177
+Hierarchy size:  75
+Ratio Cost:  19.776876146729087
+No hierarchy cost:  676
+Num of DAG created =  60
+Exact count =  29
+
+Size of the supergraph  (15, 95)
+
+ The derivation + HT construction cost of the hierarchy Learned = 784
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  671
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1831 
+
+Ratio Cost of hierarchy read =  77.77035256209172
+Ratio Cost of learned hierarchy =  48.121871313241314
+Num of DAGs in (Random, Learned) hierarchy = ( 60, 64 )
+././DAGs_5/C_6_D_3_NR_10_ER_20_DT_15/0BG.txt
+././DAGs_5/C_6_D_3_NR_10_ER_20_DT_15/0CH.txt
+././DAGs_5/C_6_D_3_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_5/C_6_D_3_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  60
+64
+all labels size  969
+dag key size  903
+Hierarchy Learning cost:  677
+Hierarchy size:  83
+Ratio Cost:  39.53078661870707
+No hierarchy cost:  1831
+Num of DAG created =  152
+Exact count =  3
+
+Size of the supergraph  (12, 60)
+
+ The derivation + HT construction cost of the hierarchy Learned = 1040
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  753
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  2619 
+
+Ratio Cost of hierarchy read =  83.53335725816044
+Ratio Cost of learned hierarchy =  91.162518293017
+Num of DAGs in (Random, Learned) hierarchy = ( 152, 66 )
+././DAGs_5/C_6_D_4_NR_5_ER_15_DT_10/0CT.txt
+././DAGs_5/C_6_D_4_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_5/C_6_D_4_NR_5_ER_15_DT_10/00L.txt
+././DAGs_5/C_6_D_4_NR_5_ER_15_DT_10/0CP.txt
+Num of DAG created =  152
+66
+all labels size  666
+dag key size  622
+Hierarchy Learning cost:  486
+Hierarchy size:  249
+Ratio Cost:  38.96616398763293
+No hierarchy cost:  2619
+Num of DAG created =  182
+Exact count =  54
+
+Size of the supergraph  (22, 206)
+
+ The derivation + HT construction cost of the hierarchy Learned = 4302
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  2896
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  8402 
+
+Ratio Cost of hierarchy read =  145.85196156165884
+Ratio Cost of learned hierarchy =  196.31373089693972
+Num of DAGs in (Random, Learned) hierarchy = ( 182, 138 )
+././DAGs_5/C_6_D_4_NR_10_ER_20_DT_15/0CT.txt
+././DAGs_5/C_6_D_4_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_5/C_6_D_4_NR_10_ER_20_DT_15/00L.txt
+././DAGs_5/C_6_D_4_NR_10_ER_20_DT_15/0CP.txt
+Num of DAG created =  182
+138
+all labels size  9444
+dag key size  8931
+Hierarchy Learning cost:  2161
+Hierarchy size:  310
+Ratio Cost:  75.74680112306395
+No hierarchy cost:  8402
+Num of DAG created =  307
+Exact count =  19
+
+Size of the supergraph  (18, 116)
+
+ The derivation + HT construction cost of the hierarchy Learned = 2889
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  1737
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  7163 
+
+Ratio Cost of hierarchy read =  117.67067441812156
+Ratio Cost of learned hierarchy =  200.93394486762486
+Num of DAGs in (Random, Learned) hierarchy = ( 307, 114 )
+././DAGs_5/C_6_D_5_NR_5_ER_15_DT_10/00FK.txt
+././DAGs_5/C_6_D_5_NR_5_ER_15_DT_10/00LO.txt
+././DAGs_5/C_6_D_5_NR_5_ER_15_DT_10/00IG.txt
+././DAGs_5/C_6_D_5_NR_5_ER_15_DT_10/00DP.txt
+Num of DAG created =  307
+114
+all labels size  3462
+dag key size  3331
+Hierarchy Learning cost:  1292
+Hierarchy size:  523
+Ratio Cost:  75.07050240347316
+No hierarchy cost:  7163
+Num of DAG created =  520
+Exact count =  86
+
+Size of the supergraph  (38, 521)
+
+ The derivation + HT construction cost of the hierarchy Learned = 27699
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  19589
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  42880 
+
+Ratio Cost of hierarchy read =  451.6132005841688
+Ratio Cost of learned hierarchy =  799.4720885741609
+Num of DAGs in (Random, Learned) hierarchy = ( 520, 379 )
+Num of DAG created =  1082
+Exact count =  70
+
+Size of the supergraph  (27, 313)
+
+ The derivation + HT construction cost of the hierarchy Learned = 14607
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  7652
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  34906 
+
+Ratio Cost of hierarchy read =  330.9085506994259
+Ratio Cost of learned hierarchy =  737.4913552174858
+Num of DAGs in (Random, Learned) hierarchy = ( 1082, 270 )
+Num of DAG created =  1720
+Exact count =  372
+
+Size of the supergraph  (100, 4785)
+
+ The derivation + HT construction cost of the hierarchy Learned = 525776
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  270766
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  412698 
+
+Ratio Cost of hierarchy read =  2907.848596686601
+Ratio Cost of learned hierarchy =  12759.621315668013
+Num of DAGs in (Random, Learned) hierarchy = ( 1720, 4445 )

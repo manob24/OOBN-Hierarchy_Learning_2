@@ -1,0 +1,744 @@
+Num of DAG created =  7
+Exact count =  6
+
+Size of the supergraph  (6, 15)
+
+ The derivation + HT construction cost of the hierarchy Learned = 29
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  31
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  64 
+
+Ratio Cost of hierarchy read =  10.3
+Ratio Cost of learned hierarchy =  5.97063492063492
+Num of DAGs in (Random, Learned) hierarchy = ( 7, 10 )
+././DAGs_3/C_3_D_3_NR_5_ER_15_DT_10/0E.txt
+././DAGs_3/C_3_D_3_NR_5_ER_15_DT_10/0F.txt
+././DAGs_3/C_3_D_3_NR_5_ER_15_DT_10/0C.txt
+././DAGs_3/C_3_D_3_NR_5_ER_15_DT_10/0B.txt
+Num of DAG created =  7
+10
+all labels size  11
+dag key size  7
+Hierarchy Learning cost:  24
+Hierarchy size:  13
+Ratio Cost:  5.273809523809524
+No hierarchy cost:  64
+Num of DAG created =  9
+Exact count =  27
+
+Size of the supergraph  (15, 53)
+
+ The derivation + HT construction cost of the hierarchy Learned = 99
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  95
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  201 
+
+Ratio Cost of hierarchy read =  27.537582787582792
+Ratio Cost of learned hierarchy =  14.160920560920559
+Num of DAGs in (Random, Learned) hierarchy = ( 9, 17 )
+././DAGs_3/C_3_D_3_NR_10_ER_20_DT_15/0F.txt
+././DAGs_3/C_3_D_3_NR_10_ER_20_DT_15/0J.txt
+././DAGs_3/C_3_D_3_NR_10_ER_20_DT_15/0C.txt
+././DAGs_3/C_3_D_3_NR_10_ER_20_DT_15/0B.txt
+Num of DAG created =  9
+17
+all labels size  21
+dag key size  16
+Hierarchy Learning cost:  86
+Hierarchy size:  16
+Ratio Cost:  13.064444814444816
+No hierarchy cost:  201
+Num of DAG created =  13
+Exact count =  15
+
+Size of the supergraph  (10, 27)
+
+ The derivation + HT construction cost of the hierarchy Learned = 54
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  57
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  131 
+
+Ratio Cost of hierarchy read =  13.372222222222222
+Ratio Cost of learned hierarchy =  9.761416361416362
+Num of DAGs in (Random, Learned) hierarchy = ( 13, 16 )
+././DAGs_3/C_3_D_4_NR_5_ER_15_DT_10/0N.txt
+././DAGs_3/C_3_D_4_NR_5_ER_15_DT_10/0K.txt
+././DAGs_3/C_3_D_4_NR_5_ER_15_DT_10/0C.txt
+././DAGs_3/C_3_D_4_NR_5_ER_15_DT_10/0B.txt
+Num of DAG created =  13
+16
+all labels size  21
+dag key size  17
+Hierarchy Learning cost:  56
+Hierarchy size:  21
+Ratio Cost:  9.151495726495728
+No hierarchy cost:  131
+Num of DAG created =  9
+Exact count =  53
+
+Size of the supergraph  (22, 89)
+
+ The derivation + HT construction cost of the hierarchy Learned = 116
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  143
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  367 
+
+Ratio Cost of hierarchy read =  16.140372670807455
+Ratio Cost of learned hierarchy =  14.273768500535226
+Num of DAGs in (Random, Learned) hierarchy = ( 9, 14 )
+././DAGs_3/C_3_D_4_NR_10_ER_20_DT_15/0F.txt
+././DAGs_3/C_3_D_4_NR_10_ER_20_DT_15/0J.txt
+././DAGs_3/C_3_D_4_NR_10_ER_20_DT_15/0C.txt
+././DAGs_3/C_3_D_4_NR_10_ER_20_DT_15/0B.txt
+Num of DAG created =  9
+14
+all labels size  15
+dag key size  10
+Hierarchy Learning cost:  116
+Hierarchy size:  16
+Ratio Cost:  14.2796508534764
+No hierarchy cost:  367
+Num of DAG created =  9
+Exact count =  11
+
+Size of the supergraph  (10, 28)
+
+ The derivation + HT construction cost of the hierarchy Learned = 42
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  46
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  134 
+
+Ratio Cost of hierarchy read =  8.351190476190476
+Ratio Cost of learned hierarchy =  6.924289478637305
+Num of DAGs in (Random, Learned) hierarchy = ( 9, 13 )
+././DAGs_3/C_3_D_5_NR_5_ER_15_DT_10/00C.txt
+././DAGs_3/C_3_D_5_NR_5_ER_15_DT_10/00G.txt
+././DAGs_3/C_3_D_5_NR_5_ER_15_DT_10/00J.txt
+././DAGs_3/C_3_D_5_NR_5_ER_15_DT_10/00H.txt
+Num of DAG created =  9
+13
+all labels size  13
+dag key size  10
+Hierarchy Learning cost:  39
+Hierarchy size:  17
+Ratio Cost:  6.583380387728213
+No hierarchy cost:  134
+Num of DAG created =  11
+Exact count =  106
+
+Size of the supergraph  (38, 179)
+
+ The derivation + HT construction cost of the hierarchy Learned = 282
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  273
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  600 
+
+Ratio Cost of hierarchy read =  26.937091893613633
+Ratio Cost of learned hierarchy =  15.797553543579427
+Num of DAGs in (Random, Learned) hierarchy = ( 11, 17 )
+././DAGs_3/C_3_D_5_NR_10_ER_20_DT_15/00J.txt
+././DAGs_3/C_3_D_5_NR_10_ER_20_DT_15/00K.txt
+././DAGs_3/C_3_D_5_NR_10_ER_20_DT_15/00H.txt
+././DAGs_3/C_3_D_5_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  11
+17
+all labels size  18
+dag key size  14
+Hierarchy Learning cost:  248
+Hierarchy size:  20
+Ratio Cost:  14.002870198261801
+No hierarchy cost:  600
+Num of DAG created =  14
+Exact count =  16
+
+Size of the supergraph  (12, 44)
+
+ The derivation + HT construction cost of the hierarchy Learned = 79
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  80
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  298 
+
+Ratio Cost of hierarchy read =  9.132159507159507
+Ratio Cost of learned hierarchy =  7.92634637375674
+Num of DAGs in (Random, Learned) hierarchy = ( 14, 20 )
+././DAGs_3/C_3_D_6_NR_5_ER_15_DT_10/00K.txt
+././DAGs_3/C_3_D_6_NR_5_ER_15_DT_10/00H.txt
+././DAGs_3/C_3_D_6_NR_5_ER_15_DT_10/00M.txt
+././DAGs_3/C_3_D_6_NR_5_ER_15_DT_10/00L.txt
+Num of DAG created =  14
+20
+all labels size  24
+dag key size  19
+Hierarchy Learning cost:  72
+Hierarchy size:  24
+Ratio Cost:  7.558357123584826
+No hierarchy cost:  298
+Num of DAG created =  22
+Exact count =  153
+
+Size of the supergraph  (38, 329)
+
+ The derivation + HT construction cost of the hierarchy Learned = 890
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  604
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1375 
+
+Ratio Cost of hierarchy read =  32.60826429204064
+Ratio Cost of learned hierarchy =  42.346159677415386
+Num of DAGs in (Random, Learned) hierarchy = ( 22, 69 )
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00S.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00U.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_3/C_3_D_6_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  22
+69
+all labels size  80
+dag key size  61
+Hierarchy Learning cost:  688
+Hierarchy size:  36
+Ratio Cost:  37.661298599467166
+No hierarchy cost:  1375
+Num of DAG created =  18
+Exact count =  10
+
+Size of the supergraph  (8, 30)
+
+ The derivation + HT construction cost of the hierarchy Learned = 72
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  88
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  215 
+
+Ratio Cost of hierarchy read =  21.230372405372403
+Ratio Cost of learned hierarchy =  10.396101121101118
+Num of DAGs in (Random, Learned) hierarchy = ( 18, 23 )
+././DAGs_3/C_4_D_3_NR_5_ER_15_DT_10/0K.txt
+././DAGs_3/C_4_D_3_NR_5_ER_15_DT_10/0C.txt
+././DAGs_3/C_4_D_3_NR_5_ER_15_DT_10/0P.txt
+././DAGs_3/C_4_D_3_NR_5_ER_15_DT_10/0B.txt
+Num of DAG created =  18
+23
+all labels size  37
+dag key size  24
+Hierarchy Learning cost:  68
+Hierarchy size:  30
+Ratio Cost:  9.778215205846784
+No hierarchy cost:  215
+Num of DAG created =  16
+Exact count =  14
+
+Size of the supergraph  (15, 65)
+
+ The derivation + HT construction cost of the hierarchy Learned = 232
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  193
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  439 
+
+Ratio Cost of hierarchy read =  31.323628806361256
+Ratio Cost of learned hierarchy =  19.816109300583236
+Num of DAGs in (Random, Learned) hierarchy = ( 16, 34 )
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0K.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0C.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0P.txt
+././DAGs_3/C_4_D_3_NR_10_ER_20_DT_15/0B.txt
+Num of DAG created =  16
+34
+all labels size  65
+dag key size  54
+Hierarchy Learning cost:  168
+Hierarchy size:  28
+Ratio Cost:  16.10311638404385
+No hierarchy cost:  439
+Num of DAG created =  45
+Exact count =  17
+
+Size of the supergraph  (12, 56)
+
+ The derivation + HT construction cost of the hierarchy Learned = 226
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  206
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  677 
+
+Ratio Cost of hierarchy read =  34.67416194916194
+Ratio Cost of learned hierarchy =  24.113382450882455
+Num of DAGs in (Random, Learned) hierarchy = ( 45, 46 )
+././DAGs_3/C_4_D_4_NR_5_ER_15_DT_10/00U.txt
+././DAGs_3/C_4_D_4_NR_5_ER_15_DT_10/0BG.txt
+././DAGs_3/C_4_D_4_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_3/C_4_D_4_NR_5_ER_15_DT_10/00L.txt
+Num of DAG created =  45
+46
+all labels size  72
+dag key size  56
+Hierarchy Learning cost:  187
+Hierarchy size:  71
+Ratio Cost:  18.895654345654343
+No hierarchy cost:  677
+Num of DAG created =  31
+Exact count =  65
+
+Size of the supergraph  (22, 187)
+
+ The derivation + HT construction cost of the hierarchy Learned = 591
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  462
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1262 
+
+Ratio Cost of hierarchy read =  38.76953648798049
+Ratio Cost of learned hierarchy =  31.31562880477702
+Num of DAGs in (Random, Learned) hierarchy = ( 31, 90 )
+././DAGs_3/C_4_D_4_NR_10_ER_20_DT_15/00S.txt
+././DAGs_3/C_4_D_4_NR_10_ER_20_DT_15/00U.txt
+././DAGs_3/C_4_D_4_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_3/C_4_D_4_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  31
+90
+all labels size  167
+dag key size  138
+Hierarchy Learning cost:  406
+Hierarchy size:  54
+Ratio Cost:  22.04288333064021
+No hierarchy cost:  1262
+Num of DAG created =  67
+Exact count =  17
+
+Size of the supergraph  (14, 72)
+
+ The derivation + HT construction cost of the hierarchy Learned = 497
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  349
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1364 
+
+Ratio Cost of hierarchy read =  38.27660975972322
+Ratio Cost of learned hierarchy =  40.85318546935184
+Num of DAGs in (Random, Learned) hierarchy = ( 67, 66 )
+././DAGs_3/C_4_D_5_NR_5_ER_15_DT_10/0CH.txt
+././DAGs_3/C_4_D_5_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_3/C_4_D_5_NR_5_ER_15_DT_10/00L.txt
+././DAGs_3/C_4_D_5_NR_5_ER_15_DT_10/0CP.txt
+Num of DAG created =  67
+66
+all labels size  199
+dag key size  167
+Hierarchy Learning cost:  307
+Hierarchy size:  108
+Ratio Cost:  23.619337491713644
+No hierarchy cost:  1364
+Num of DAG created =  81
+Exact count =  86
+
+Size of the supergraph  (38, 443)
+
+ The derivation + HT construction cost of the hierarchy Learned = 3979
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  2291
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  5158 
+
+Ratio Cost of hierarchy read =  87.99243885353329
+Ratio Cost of learned hierarchy =  128.20218199934197
+Num of DAGs in (Random, Learned) hierarchy = ( 81, 336 )
+././DAGs_3/C_4_D_5_NR_10_ER_20_DT_15/0CT.txt
+././DAGs_3/C_4_D_5_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_3/C_4_D_5_NR_10_ER_20_DT_15/00L.txt
+././DAGs_3/C_4_D_5_NR_10_ER_20_DT_15/0CP.txt
+Num of DAG created =  81
+336
+all labels size  2245
+dag key size  2178
+Hierarchy Learning cost:  1992
+Hierarchy size:  139
+Ratio Cost:  51.4334341682455
+No hierarchy cost:  5158
+Num of DAG created =  123
+Exact count =  34
+
+Size of the supergraph  (19, 136)
+
+ The derivation + HT construction cost of the hierarchy Learned = 1222
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  710
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  3334 
+
+Ratio Cost of hierarchy read =  52.558772108817045
+Ratio Cost of learned hierarchy =  72.78600629537307
+Num of DAGs in (Random, Learned) hierarchy = ( 123, 110 )
+././DAGs_3/C_4_D_6_NR_5_ER_15_DT_10/0CT.txt
+././DAGs_3/C_4_D_6_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_3/C_4_D_6_NR_5_ER_15_DT_10/00L.txt
+././DAGs_3/C_4_D_6_NR_5_ER_15_DT_10/0CP.txt
+Num of DAG created =  123
+110
+all labels size  774
+dag key size  721
+Hierarchy Learning cost:  559
+Hierarchy size:  214
+Ratio Cost:  29.63414257069395
+No hierarchy cost:  3334
+Num of DAG created =  117
+Exact count =  816
+
+Size of the supergraph  (100, 4275)
+
+ The derivation + HT construction cost of the hierarchy Learned = 95415
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  16992
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  25984 
+
+Ratio Cost of hierarchy read =  203.0268323648273
+Ratio Cost of learned hierarchy =  2343.8778433737903
+Num of DAGs in (Random, Learned) hierarchy = ( 117, 3146 )
+././DAGs_3/C_4_D_6_NR_10_ER_20_DT_15/0CT.txt
+././DAGs_3/C_4_D_6_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_3/C_4_D_6_NR_10_ER_20_DT_15/00L.txt
+././DAGs_3/C_4_D_6_NR_10_ER_20_DT_15/0CP.txt
+Num of DAG created =  117
+3146
+all labels size  13369
+dag key size  13241
+Hierarchy Learning cost:  14397
+Hierarchy size:  200
+Ratio Cost:  121.61529017063673
+No hierarchy cost:  25984
+Num of DAG created =  23
+Exact count =  20
+
+Size of the supergraph  (10, 33)
+
+ The derivation + HT construction cost of the hierarchy Learned = 89
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  117
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  238 
+
+Ratio Cost of hierarchy read =  24.206349206349202
+Ratio Cost of learned hierarchy =  12.711904761904758
+Num of DAGs in (Random, Learned) hierarchy = ( 23, 25 )
+././DAGs_3/C_5_D_3_NR_5_ER_15_DT_10/0K.txt
+././DAGs_3/C_5_D_3_NR_5_ER_15_DT_10/0C.txt
+././DAGs_3/C_5_D_3_NR_5_ER_15_DT_10/0P.txt
+././DAGs_3/C_5_D_3_NR_5_ER_15_DT_10/0B.txt
+Num of DAG created =  23
+25
+all labels size  57
+dag key size  38
+Hierarchy Learning cost:  76
+Hierarchy size:  37
+Ratio Cost:  10.908405483405486
+No hierarchy cost:  238
+Num of DAG created =  32
+Exact count =  26
+
+Size of the supergraph  (15, 91)
+
+ The derivation + HT construction cost of the hierarchy Learned = 426
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  382
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  874 
+
+Ratio Cost of hierarchy read =  62.27531333400897
+Ratio Cost of learned hierarchy =  31.838165174589975
+Num of DAGs in (Random, Learned) hierarchy = ( 32, 64 )
+././DAGs_3/C_5_D_3_NR_10_ER_20_DT_15/0C.txt
+././DAGs_3/C_5_D_3_NR_10_ER_20_DT_15/0P.txt
+././DAGs_3/C_5_D_3_NR_10_ER_20_DT_15/0B.txt
+././DAGs_3/C_5_D_3_NR_10_ER_20_DT_15/0Z.txt
+Num of DAG created =  32
+64
+all labels size  253
+dag key size  217
+Hierarchy Learning cost:  325
+Hierarchy size:  56
+Ratio Cost:  24.427504785879933
+No hierarchy cost:  874
+Num of DAG created =  37
+Exact count =  23
+
+Size of the supergraph  (12, 59)
+
+ The derivation + HT construction cost of the hierarchy Learned = 256
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  218
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  587 
+
+Ratio Cost of hierarchy read =  27.22565473741944
+Ratio Cost of learned hierarchy =  28.512620549385257
+Num of DAGs in (Random, Learned) hierarchy = ( 37, 48 )
+././DAGs_3/C_5_D_4_NR_5_ER_15_DT_10/00U.txt
+././DAGs_3/C_5_D_4_NR_5_ER_15_DT_10/0BG.txt
+././DAGs_3/C_5_D_4_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_3/C_5_D_4_NR_5_ER_15_DT_10/00L.txt
+Num of DAG created =  37
+48
+all labels size  102
+dag key size  79
+Hierarchy Learning cost:  187
+Hierarchy size:  56
+Ratio Cost:  18.322464927573286
+No hierarchy cost:  587
+Num of DAG created =  72
+Exact count =  50
+
+Size of the supergraph  (22, 165)
+
+ The derivation + HT construction cost of the hierarchy Learned = 1588
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  1122
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  3079 
+
+Ratio Cost of hierarchy read =  70.69041482532946
+Ratio Cost of learned hierarchy =  75.61997857444275
+Num of DAGs in (Random, Learned) hierarchy = ( 72, 106 )
+././DAGs_3/C_5_D_4_NR_10_ER_20_DT_15/0CT.txt
+././DAGs_3/C_5_D_4_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_3/C_5_D_4_NR_10_ER_20_DT_15/00L.txt
+././DAGs_3/C_5_D_4_NR_10_ER_20_DT_15/0CP.txt
+Num of DAG created =  72
+106
+all labels size  3240
+dag key size  3200
+Hierarchy Learning cost:  854
+Hierarchy size:  130
+Ratio Cost:  34.86741327792118
+No hierarchy cost:  3079
+Num of DAG created =  157
+Exact count =  31
+
+Size of the supergraph  (18, 120)
+
+ The derivation + HT construction cost of the hierarchy Learned = 1182
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  881
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  3176 
+
+Ratio Cost of hierarchy read =  83.34373139835178
+Ratio Cost of learned hierarchy =  90.59147102128573
+Num of DAGs in (Random, Learned) hierarchy = ( 157, 103 )
+././DAGs_3/C_5_D_5_NR_5_ER_15_DT_10/0CT.txt
+././DAGs_3/C_5_D_5_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_3/C_5_D_5_NR_5_ER_15_DT_10/00L.txt
+././DAGs_3/C_5_D_5_NR_5_ER_15_DT_10/0CP.txt
+Num of DAG created =  157
+103
+all labels size  1089
+dag key size  1034
+Hierarchy Learning cost:  736
+Hierarchy size:  265
+Ratio Cost:  50.66807453371791
+No hierarchy cost:  3176
+Num of DAG created =  170
+Exact count =  94
+
+Size of the supergraph  (38, 493)
+
+ The derivation + HT construction cost of the hierarchy Learned = 7411
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  5018
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  11555 
+
+Ratio Cost of hierarchy read =  138.78164694404379
+Ratio Cost of learned hierarchy =  218.24064975758512
+Num of DAGs in (Random, Learned) hierarchy = ( 170, 369 )
+['00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN', '0CO', '0CP', '0CQ', '0CR', '0CS', '0CT', '0CU', '0CV', '0CW', '0CX', '0CY', '0CZ', '0DA', '0DB', '0DC', '0DD', '0DE', '0DF', '0DG', '0DH', '0DI', '0DJ', '0DK', '0DL', '0DM', '0DN', '0DO', '0DP', '0DQ', '0DR', '0DS', '0DT', '0DU', '0DV', '0DW', '0DX', '0DY', '0DZ', '0EA', '0EB', '0EC', '0ED', '0EE', '0EF', '0EG', '0EH', '0EI', '0EJ', '0EK', '0EL', '0EM', '0EN', '0EO', '0EP', '0EQ', '0ER', '0ES', '0ET', '0EU', '0EV', '0EW', '0EX', '0EY', '0EZ', '0FA', '0FB', '0FC', '0FD', '0FE', '0FF', '0FG', '0FH', '0FI', '0FJ', '0FK', '0FL', '0FM', '0FN', '0FO', '0FP', '0FQ', '0FR', '0FS', '0FT', '0FU', '0FV', '0FW', '0FX', '0FY', '0FZ', '0GA', '0GB', '0GC', '0GD', '0GE', '0GF', '0GG', '0GH', '0GI', '0GJ', '0GK', '0GL', '0GM', '0GN', '0GO'] ==> ['00E', '00F', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN', '0CO', '0CP', '0CQ', '0CR', '0CS', '0CT', '0CU', '0CV', '0CW', '0CX', '0CY', '0CZ', '0DA', '0DB', '0DC', '0DD', '0DE', '0DF', '0DG', '0DH', '0DI', '0DJ', '0DK', '0DL', '0DM', '0DN', '0DO', '0DP', '0DQ', '0DR', '0DS', '0DT', '0DU', '0DV', '0DW', '0DX', '0DY', '0DZ', '0EA', '0EB', '0EC', '0ED', '0EE', '0EF', '0EG', '0EH', '0EI', '0EJ', '0EK', '0EL', '0EM', '0EN', '0EO', '0EP', '0EQ', '0ER', '0ES', '0ET', '0EU', '0EV', '0EW', '0EX', '0EY', '0EZ', '0FA', '0FB', '0FC', '0FD', '0FE', '0FF', '0FG', '0FH', '0FI', '0FJ', '0FK', '0FL', '0FM', '0FN', '0FO', '0FP', '0FQ', '0FR', '0FS', '0FT', '0FU', '0FV', '0FW', '0FX', '0FY', '0FZ', '0GA', '0GB', '0GC', '0GD', '0GE', '0GF', '0GG', '0GH', '0GI', '0GJ', '0GK', '0GL', '0GM', '0GN', '0GO']
+['00E', '00F', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN', '0CO', '0CP', '0CQ', '0CR', '0CS', '0CT', '0CU', '0CV', '0CW', '0CX', '0CY', '0CZ', '0DA', '0DB', '0DC', '0DD', '0DE', '0DF', '0DG', '0DH', '0DI', '0DJ', '0DK', '0DL', '0DM', '0DN', '0DO', '0DP', '0DQ', '0DR', '0DS', '0DT', '0DU', '0DV', '0DW', '0DX', '0DY', '0DZ', '0EA', '0EB', '0EC', '0ED', '0EE', '0EF', '0EG', '0EH', '0EI', '0EJ', '0EK', '0EL', '0EM', '0EN', '0EO', '0EP', '0EQ', '0ER', '0ES', '0ET', '0EU', '0EV', '0EW', '0EX', '0EY', '0EZ', '0FA', '0FB', '0FC', '0FD', '0FE', '0FF', '0FG', '0FH', '0FI', '0FJ', '0FK', '0FL', '0FM', '0FN', '0FO', '0FP', '0FQ', '0FR', '0FS', '0FT', '0FU', '0FV', '0FW', '0FX', '0FY', '0FZ', '0GA', '0GB', '0GC', '0GD', '0GE', '0GF', '0GG', '0GH', '0GI', '0GJ', '0GK', '0GL', '0GM', '0GN', '0GO'] ==> ['00E', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN', '0CO', '0CP', '0CQ', '0CR', '0CS', '0CT', '0CU', '0CV', '0CW', '0CX', '0CY', '0CZ', '0DA', '0DB', '0DC', '0DD', '0DE', '0DF', '0DG', '0DH', '0DI', '0DJ', '0DK', '0DL', '0DM', '0DN', '0DO', '0DP', '0DQ', '0DR', '0DS', '0DT', '0DU', '0DV', '0DW', '0DX', '0DY', '0DZ', '0EA', '0EB', '0EC', '0ED', '0EE', '0EF', '0EG', '0EH', '0EI', '0EJ', '0EK', '0EL', '0EM', '0EN', '0EO', '0EP', '0EQ', '0ER', '0ES', '0ET', '0EU', '0EV', '0EW', '0EX', '0EY', '0EZ', '0FA', '0FB', '0FC', '0FD', '0FE', '0FF', '0FG', '0FH', '0FI', '0FJ', '0FK', '0FL', '0FM', '0FN', '0FO', '0FP', '0FQ', '0FR', '0FS', '0FT', '0FU', '0FV', '0FW', '0FX', '0FY', '0FZ', '0GA', '0GB', '0GC', '0GD', '0GE', '0GF', '0GG', '0GH', '0GI', '0GJ', '0GK', '0GL', '0GM', '0GN', '0GO']
+['00E', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN', '0CO', '0CP', '0CQ', '0CR', '0CS', '0CT', '0CU', '0CV', '0CW', '0CX', '0CY', '0CZ', '0DA', '0DB', '0DC', '0DD', '0DE', '0DF', '0DG', '0DH', '0DI', '0DJ', '0DK', '0DL', '0DM', '0DN', '0DO', '0DP', '0DQ', '0DR', '0DS', '0DT', '0DU', '0DV', '0DW', '0DX', '0DY', '0DZ', '0EA', '0EB', '0EC', '0ED', '0EE', '0EF', '0EG', '0EH', '0EI', '0EJ', '0EK', '0EL', '0EM', '0EN', '0EO', '0EP', '0EQ', '0ER', '0ES', '0ET', '0EU', '0EV', '0EW', '0EX', '0EY', '0EZ', '0FA', '0FB', '0FC', '0FD', '0FE', '0FF', '0FG', '0FH', '0FI', '0FJ', '0FK', '0FL', '0FM', '0FN', '0FO', '0FP', '0FQ', '0FR', '0FS', '0FT', '0FU', '0FV', '0FW', '0FX', '0FY', '0FZ', '0GA', '0GB', '0GC', '0GD', '0GE', '0GF', '0GG', '0GH', '0GI', '0GJ', '0GK', '0GL', '0GM', '0GN', '0GO'] ==> ['00E', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN', '0CO', '0CP', '0CQ', '0CR', '0CS', '0CT', '0CU', '0CV', '0CW', '0CX', '0CY', '0CZ', '0DA', '0DB', '0DC', '0DD', '0DE', '0DF', '0DG', '0DH', '0DI', '0DJ', '0DK', '0DL', '0DM', '0DN', '0DO', '0DP', '0DQ', '0DR', '0DS', '0DT', '0DU', '0DV', '0DW', '0DX', '0DY', '0DZ', '0EA', '0EB', '0EC', '0ED', '0EE', '0EF', '0EG', '0EH', '0EI', '0EJ', '0EK', '0EL', '0EM', '0EN', '0EO', '0EP', '0EQ', '0ER', '0ES', '0ET', '0EU', '0EV', '0EW', '0EX', '0EY', '0EZ', '0FA', '0FB', '0FC', '0FD', '0FE', '0FF', '0FG', '0FH', '0FI', '0FJ', '0FK', '0FL', '0FM', '0FN', '0FO', '0FP', '0FQ', '0FR', '0FS', '0FT', '0FU', '0FV', '0FW', '0FX', '0FY', '0FZ', '0GA', '0GB', '0GC', '0GD', '0GE', '0GF', '0GG', '0GH', '0GI', '0GJ', '0GK', '0GL', '0GM', '0GN', '0GO']
+['00E', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN', '0CO', '0CP', '0CQ', '0CR', '0CS', '0CT', '0CU', '0CV', '0CW', '0CX', '0CY', '0CZ', '0DA', '0DB', '0DC', '0DD', '0DE', '0DF', '0DG', '0DH', '0DI', '0DJ', '0DK', '0DL', '0DM', '0DN', '0DO', '0DP', '0DQ', '0DR', '0DS', '0DT', '0DU', '0DV', '0DW', '0DX', '0DY', '0DZ', '0EA', '0EB', '0EC', '0ED', '0EE', '0EF', '0EG', '0EH', '0EI', '0EJ', '0EK', '0EL', '0EM', '0EN', '0EO', '0EP', '0EQ', '0ER', '0ES', '0ET', '0EU', '0EV', '0EW', '0EX', '0EY', '0EZ', '0FA', '0FB', '0FC', '0FD', '0FE', '0FF', '0FG', '0FH', '0FI', '0FJ', '0FK', '0FL', '0FM', '0FN', '0FO', '0FP', '0FQ', '0FR', '0FS', '0FT', '0FU', '0FV', '0FW', '0FX', '0FY', '0FZ', '0GA', '0GB', '0GC', '0GD', '0GE', '0GF', '0GG', '0GH', '0GI', '0GJ', '0GK', '0GL', '0GM', '0GN', '0GO'] ==> ['00B', '00C', '00D', '00E', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN', '0CO', '0CP', '0CQ', '0CR', '0CS', '0CT', '0CU', '0CV', '0CW', '0CX', '0CY', '0CZ', '0DA', '0DB', '0DC', '0DD', '0DE', '0DF', '0DG', '0DH', '0DI', '0DJ', '0DK', '0DL', '0DM', '0DN', '0DO', '0DP', '0DQ', '0DR', '0DS', '0DT', '0DU', '0DV', '0DW', '0DX', '0DY', '0DZ', '0EA', '0EB', '0EC', '0ED', '0EE', '0EF', '0EG', '0EH', '0EI', '0EJ', '0EK', '0EL', '0EM', '0EN', '0EO', '0EP', '0EQ', '0ER', '0ES', '0ET', '0EU', '0EV', '0EW', '0EX', '0EY', '0EZ', '0FA', '0FB', '0FC', '0FD', '0FE', '0FF', '0FG', '0FH', '0FI', '0FJ', '0FK', '0FL', '0FM', '0FN', '0FO', '0FP', '0FQ', '0FR', '0FS', '0FT', '0FU', '0FV', '0FW', '0FX', '0FY', '0FZ', '0GA', '0GB', '0GC', '0GD', '0GE', '0GF', '0GG', '0GH', '0GI', '0GJ', '0GK', '0GL', '0GM', '0GN', '0GO']
+['00B', '00C', '00D', '00E', '00F', '00G', '00H', '00I', '00J', '00K', '00L', '00M', '00N', '00O', '00P', '00Q', '00R', '00S', '00T', '00U', '00V', '00W', '00X', '00Y', '00Z', '0BA', '0BB', '0BC', '0BD', '0BE', '0BF', '0BG', '0BH', '0BI', '0BJ', '0BK', '0BL', '0BM', '0BN', '0BO', '0BP', '0BQ', '0BR', '0BS', '0BT', '0BU', '0BV', '0BW', '0BX', '0BY', '0BZ', '0CA', '0CB', '0CC', '0CD', '0CE', '0CF', '0CG', '0CH', '0CI', '0CJ', '0CK', '0CL', '0CM', '0CN', '0CO', '0CP', '0CQ', '0CR', '0CS', '0CT', '0CU', '0CV', '0CW', '0CX', '0CY', '0CZ', '0DA', '0DB', '0DC', '0DD', '0DE', '0DF', '0DG', '0DH', '0DI', '0DJ', '0DK', '0DL', '0DM', '0DN', '0DO', '0DP', '0DQ', '0DR', '0DS', '0DT', '0DU', '0DV', '0DW', '0DX', '0DY', '0DZ', '0EA', '0EB', '0EC', '0ED', '0EE', '0EF', '0EG', '0EH', '0EI', '0EJ', '0EK', '0EL', '0EM', '0EN', '0EO', '0EP', '0EQ', '0ER', '0ES', '0ET', '0EU', '0EV', '0EW', '0EX', '0EY', '0EZ', '0FA', '0FB', '0FC', '0FD', '0FE', '0FF', '0FG', '0FH', '0FI', '0FJ', '0FK', '0FL', '0FM', '0FN', '0FO', '0FP', '0FQ', '0FR', '0FS', '0FT', '0FU', '0FV', '0FW', '0FX', '0FY', '0FZ', '0GA', '0GB', '0GC', '0GD', '0GE', '0GF', '0GG', '0GH', '0GI', '0GJ', '0GK', '0GL', '0GM', '0GN', '0GO'] ==> []
+
+369
+all labels size  11252
+dag key size  10903
+Hierarchy Learning cost:  7646
+Hierarchy size:  224
+No hierarchy cost:  11555
+Num of DAG created =  350
+Exact count =  43
+
+Size of the supergraph  (23, 175)
+
+ The derivation + HT construction cost of the hierarchy Learned = 3572
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  2226
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  9230 
+
+Ratio Cost of hierarchy read =  133.29248171062292
+Ratio Cost of learned hierarchy =  207.10233237305712
+Num of DAGs in (Random, Learned) hierarchy = ( 350, 149 )
+././DAGs_3/C_5_D_6_NR_5_ER_15_DT_10/00LO.txt
+././DAGs_3/C_5_D_6_NR_5_ER_15_DT_10/00IG.txt
+././DAGs_3/C_5_D_6_NR_5_ER_15_DT_10/00DP.txt
+././DAGs_3/C_5_D_6_NR_5_ER_15_DT_10/00MZ.txt
+Num of DAG created =  350
+149
+all labels size  4512
+dag key size  4293
+Hierarchy Learning cost:  1800
+Hierarchy size:  582
+Ratio Cost:  91.01450385435948
+No hierarchy cost:  9230
+Num of DAG created =  541
+Exact count =  394
+
+Size of the supergraph  (100, 4664)
+
+ The derivation + HT construction cost of the hierarchy Learned = 356059
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  80387
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  123510 
+
+Ratio Cost of hierarchy read =  885.9864045374601
+Ratio Cost of learned hierarchy =  10646.18884841365
+Num of DAGs in (Random, Learned) hierarchy = ( 541, 4258 )
+././DAGs_3/C_5_D_6_NR_10_ER_20_DT_15/00EI.txt
+././DAGs_3/C_5_D_6_NR_10_ER_20_DT_15/00JE.txt
+././DAGs_3/C_5_D_6_NR_10_ER_20_DT_15/00FK.txt
+././DAGs_3/C_5_D_6_NR_10_ER_20_DT_15/00LO.txt
+././DAGs_3/C_5_D_6_NR_10_ER_20_DT_15/00RE.txt
+././DAGs_3/C_5_D_6_NR_10_ER_20_DT_15/00PO.txt
+././DAGs_3/C_5_D_6_NR_10_ER_20_DT_15/00IG.txt
+././DAGs_3/C_5_D_6_NR_10_ER_20_DT_15/00DP.txt
+././DAGs_3/C_5_D_6_NR_10_ER_20_DT_15/00UR.txt
+././DAGs_3/C_5_D_6_NR_10_ER_20_DT_15/00MZ.txt
+Num of DAG created =  541
+4258
+Num of DAG created =  43
+Exact count =  7
+
+Size of the supergraph  (10, 42)
+
+ The derivation + HT construction cost of the hierarchy Learned = 257
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  235
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  582 
+
+Ratio Cost of hierarchy read =  41.411002886002905
+Ratio Cost of learned hierarchy =  32.80331335331334
+Num of DAGs in (Random, Learned) hierarchy = ( 43, 44 )
+././DAGs_3/C_6_D_3_NR_5_ER_15_DT_10/00U.txt
+././DAGs_3/C_6_D_3_NR_5_ER_15_DT_10/0BG.txt
+././DAGs_3/C_6_D_3_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_3/C_6_D_3_NR_5_ER_15_DT_10/00L.txt
+Num of DAG created =  43
+44
+all labels size  120
+dag key size  101
+Hierarchy Learning cost:  145
+Hierarchy size:  71
+Ratio Cost:  16.066065633712686
+No hierarchy cost:  582
+Num of DAG created =  54
+Exact count =  27
+
+Size of the supergraph  (15, 86)
+
+ The derivation + HT construction cost of the hierarchy Learned = 691
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  624
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1463 
+
+Ratio Cost of hierarchy read =  73.9138244351631
+Ratio Cost of learned hierarchy =  47.350409084379656
+Num of DAGs in (Random, Learned) hierarchy = ( 54, 60 )
+././DAGs_3/C_6_D_3_NR_10_ER_20_DT_15/00U.txt
+././DAGs_3/C_6_D_3_NR_10_ER_20_DT_15/0BG.txt
+././DAGs_3/C_6_D_3_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_3/C_6_D_3_NR_10_ER_20_DT_15/00L.txt
+Num of DAG created =  54
+60
+all labels size  726
+dag key size  661
+Hierarchy Learning cost:  428
+Hierarchy size:  93
+Ratio Cost:  29.15358126881742
+No hierarchy cost:  1463
+Num of DAG created =  98
+Exact count =  13
+
+Size of the supergraph  (12, 72)
+
+ The derivation + HT construction cost of the hierarchy Learned = 611
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  513
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  1555 
+
+Ratio Cost of hierarchy read =  66.1917257011247
+Ratio Cost of learned hierarchy =  60.05770606205394
+Num of DAGs in (Random, Learned) hierarchy = ( 98, 72 )
+././DAGs_3/C_6_D_4_NR_5_ER_15_DT_10/0CT.txt
+././DAGs_3/C_6_D_4_NR_5_ER_15_DT_10/00Q.txt
+././DAGs_3/C_6_D_4_NR_5_ER_15_DT_10/00L.txt
+././DAGs_3/C_6_D_4_NR_5_ER_15_DT_10/0CP.txt
+Num of DAG created =  98
+72
+all labels size  462
+dag key size  427
+Hierarchy Learning cost:  352
+Hierarchy size:  160
+Ratio Cost:  32.27603159992916
+No hierarchy cost:  1555
+Num of DAG created =  198
+Exact count =  36
+
+Size of the supergraph  (22, 168)
+
+ The derivation + HT construction cost of the hierarchy Learned = 4158
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  3098
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  8414 
+
+Ratio Cost of hierarchy read =  156.8373497851296
+Ratio Cost of learned hierarchy =  189.7049157282206
+Num of DAGs in (Random, Learned) hierarchy = ( 198, 110 )
+././DAGs_3/C_6_D_4_NR_10_ER_20_DT_15/00Q.txt
+././DAGs_3/C_6_D_4_NR_10_ER_20_DT_15/00L.txt
+././DAGs_3/C_6_D_4_NR_10_ER_20_DT_15/0CP.txt
+././DAGs_3/C_6_D_4_NR_10_ER_20_DT_15/0HD.txt
+Num of DAG created =  198
+110
+all labels size  15066
+dag key size  14461
+Hierarchy Learning cost:  2146
+Hierarchy size:  340
+Ratio Cost:  74.91758878786537
+No hierarchy cost:  8414
+Num of DAG created =  391
+Exact count =  31
+
+Size of the supergraph  (18, 157)
+
+ The derivation + HT construction cost of the hierarchy Learned = 3328
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  2110
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  8666 
+
+Ratio Cost of hierarchy read =  159.89058798555132
+Ratio Cost of learned hierarchy =  240.36962522888308
+Num of DAGs in (Random, Learned) hierarchy = ( 391, 144 )
+././DAGs_3/C_6_D_5_NR_5_ER_15_DT_10/00LO.txt
+././DAGs_3/C_6_D_5_NR_5_ER_15_DT_10/00IG.txt
+././DAGs_3/C_6_D_5_NR_5_ER_15_DT_10/00DP.txt
+././DAGs_3/C_6_D_5_NR_5_ER_15_DT_10/00MZ.txt
+Num of DAG created =  391
+144
+all labels size  3846
+dag key size  3608
+Hierarchy Learning cost:  1594
+Hierarchy size:  641
+Ratio Cost:  97.20059156367132
+No hierarchy cost:  8666
+Num of DAG created =  631
+Exact count =  77
+
+Size of the supergraph  (38, 485)
+
+ The derivation + HT construction cost of the hierarchy Learned = 33350
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  23620
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  51585 
+
+Ratio Cost of hierarchy read =  549.0201113880164
+Ratio Cost of learned hierarchy =  990.3850722039887
+Num of DAGs in (Random, Learned) hierarchy = ( 631, 392 )
+Num of DAG created =  1061
+Exact count =  70
+
+Size of the supergraph  (27, 305)
+
+ The derivation + HT construction cost of the hierarchy Learned = 15783
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  7989
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  35625 
+
+Ratio Cost of hierarchy read =  329.32471583802
+Ratio Cost of learned hierarchy =  811.2372106022551
+Num of DAGs in (Random, Learned) hierarchy = ( 1061, 254 )
+././DAGs_3/C_6_D_6_NR_5_ER_15_DT_10/00PO.txt
+././DAGs_3/C_6_D_6_NR_5_ER_15_DT_10/00IG.txt
+././DAGs_3/C_6_D_6_NR_5_ER_15_DT_10/00DP.txt
+././DAGs_3/C_6_D_6_NR_5_ER_15_DT_10/0BCP.txt
+././DAGs_3/C_6_D_6_NR_5_ER_15_DT_10/00UR.txt
+././DAGs_3/C_6_D_6_NR_5_ER_15_DT_10/0BCM.txt
+././DAGs_3/C_6_D_6_NR_5_ER_15_DT_10/0BCA.txt
+././DAGs_3/C_6_D_6_NR_5_ER_15_DT_10/00MZ.txt
+Num of DAG created =  1061
+254
+all labels size  27070
+dag key size  26086
+Num of DAG created =  1491
+Exact count =  409
+
+Size of the supergraph  (100, 4632)
+
+ The derivation + HT construction cost of the hierarchy Learned = 491616
+The  ( derivation cost + HT constructin cost) of the hierarchy Read =  243504
+The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy =  365853 
+
+Ratio Cost of hierarchy read =  2625.823167516431
+Ratio Cost of learned hierarchy =  10933.140334842541
+Num of DAGs in (Random, Learned) hierarchy = ( 1491, 4268 )

@@ -2,7 +2,7 @@
 from MakeRandomHierarchy import *
 
 import os
-
+import math
 class Reuse:
     def __init__(self):
         self.nodeCnt = 0 # how many nodes are required to make the graph
@@ -31,6 +31,7 @@ class LearnHierarchy:
         self.superDAG = None
         self.superDAGNodeLabelMap = None
         self.superDAGEdgeLabelMap = None
+        self.ratioCost = 0
 
     # this function will make a dict "DAGDict" representing a hierarchy of DAGs stored in a text file
     def getHierarchyFromTextFile(self, fileName):
@@ -104,6 +105,7 @@ class LearnHierarchy:
             cRU = self.derivDict[lab]
             cTotal = cRU.nodeCnt + cRU.edgeCnt
             parents = self.DICNodeParList[lab]
+            minCost = math.inf
             for par in parents:
                 if par in self.derivDict.keys():
                     pRU = self.derivDict[par]
@@ -115,13 +117,19 @@ class LearnHierarchy:
 
                     elif self.derivDict[lab].bestDerivation[1] > (cTotal - pTotal):
                         self.derivDict[lab].bestDerivation = (par, (cTotal - pTotal))
+                    
+                    
+                    minCost = min((cTotal-pTotal)/(pTotal+1), minCost)
                     # self.derivDict[lab].parentReuse[par] = (cTotal - pTotal)/(pTotal+1)
                     # if self.derivDict[lab].bestDerivation == None:
                     #     self.derivDict[lab].bestDerivation = (par, (cTotal - pTotal)/(pTotal+1))
                     #
                     # elif self.derivDict[lab].bestDerivation[1] > (cTotal - pTotal)/(pTotal+1):
                     #     self.derivDict[lab].bestDerivation = (par, (cTotal - pTotal)/(pTotal+1))
-
+            if minCost != math.inf:
+                self.ratioCost += minCost
+            else:
+                self.ratioCost += cTotal
         # for lab in self.DICNodeParList.keys():
         #     print(lab, " Count ", self.derivDict[lab])
 
@@ -439,6 +447,9 @@ def compareHierarchies(dir = ""):
 
     print("The  ( derivation cost + HT constructin cost) of the hierarchy with no Hierarchy = ", HR.reusabilityForNoHierarchy(), "\n")
 
+    print("Ratio Cost of hierarchy read = ", HR.ratioCost)
+    print("Ratio Cost of learned hierarchy = ", HL.ratioCost)
+    
 
     # '''
     #     Following lines of leaf counting is ignored for Ann's complain on illegitimacy of the experiments

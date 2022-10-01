@@ -457,6 +457,7 @@ class LearnHierarchy:
 
     def calculateCostofHierarchy(self):
         totalCost = 0
+        ratioCost = 0
         hierarchy_size = 0
         exploreQ = Queue()
         init = []
@@ -467,11 +468,12 @@ class LearnHierarchy:
                 hierarchy_size += 1
                 parent = self.DICNodeParList[now]
                 totalCost += self.derivDict[now]-self.derivDict[parent]
+                ratioCost  += (self.derivDict[now]-self.derivDict[parent])/(self.derivDict[parent]+1)
             if now in self.finalHierarchy:
                 for lab in self.finalHierarchy[now]:
                     exploreQ.put(str(lab))
 
-        return totalCost, hierarchy_size
+        return totalCost, ratioCost, hierarchy_size
 
     def reusabilityForNoHierarchy(self):
         reuseCnt = 0
@@ -523,9 +525,10 @@ def compareHierarchies(dir = ""):
     # print("\nprint final dagdict\n")
     # for lab in HL.finalHierarchy.keys():
     #     print(lab, ":\t",HL.finalHierarchy[lab],"\n")
-    cost, hierarchy_size = HL.calculateCostofHierarchy()
+    cost, ratioCost, hierarchy_size = HL.calculateCostofHierarchy()
     print("Hierarchy Learning cost: ",cost)
     print("Hierarchy size: ", hierarchy_size)
+    print("Ratio Cost: ", ratioCost)
     print("No hierarchy cost: ", HL.reusabilityForNoHierarchy())
 
 def extractCommandLineValuesComp(Commands):
